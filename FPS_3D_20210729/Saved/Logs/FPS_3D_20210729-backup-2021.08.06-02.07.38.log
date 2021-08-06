@@ -1,0 +1,1884 @@
+﻿Log file open, 08/06/21 01:25:36
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: FPS_3D_20210729
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 5.759209
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +8:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 1909) (), CPU: AMD Ryzen 5 1600 Six-Core Processor            , GPU: Radeon RX 570 Series
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Epic Games/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/user/Documents/UE4/Unreal_LIN_3D_FPS/FPS_3D_20210729/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.08.05-17.25.44:224][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.08.05-17.25.44:224][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.08.05-17.25.44:224][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/user/Documents/UE4/Unreal_LIN_3D_FPS/FPS_3D_20210729/Saved/Config/Windows/Engine.ini]
+[2021.08.05-17.25.44:224][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.08.05-17.25.44:225][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/user/Documents/UE4/Unreal_LIN_3D_FPS/FPS_3D_20210729/Saved/Config/Windows/Engine.ini]
+[2021.08.05-17.25.44:225][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/user/Documents/UE4/Unreal_LIN_3D_FPS/FPS_3D_20210729/Saved/Config/Windows/Engine.ini]
+[2021.08.05-17.25.44:225][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.08.05-17.25.44:225][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.08.05-17.25.44:225][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.08.05-17.25.44:225][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.08.05-17.25.44:225][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.08.05-17.25.44:225][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.08.05-17.25.44:225][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.08.05-17.25.44:225][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.08.05-17.25.44:225][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.08.05-17.25.44:225][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.08.05-17.25.44:225][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.08.05-17.25.44:225][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.08.05-17.25.44:225][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.08.05-17.25.44:225][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.08.05-17.25.44:225][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/user/Documents/UE4/Unreal_LIN_3D_FPS/FPS_3D_20210729/Saved/Config/Windows/Engine.ini]
+[2021.08.05-17.25.44:225][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.08.05-17.25.44:225][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.08.05-17.25.44:225][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.08.05-17.25.44:225][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.08.05-17.25.44:225][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.08.05-17.25.44:225][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.08.05-17.25.44:225][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.08.05-17.25.44:225][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.08.05-17.25.44:225][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.08.05-17.25.44:225][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.08.05-17.25.44:225][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.08.05-17.25.44:225][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.08.05-17.25.44:225][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.08.05-17.25.44:225][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.08.05-17.25.44:225][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/user/Documents/UE4/Unreal_LIN_3D_FPS/FPS_3D_20210729/Saved/Config/Windows/Engine.ini]
+[2021.08.05-17.25.44:225][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/user/Documents/UE4/Unreal_LIN_3D_FPS/FPS_3D_20210729/Saved/Config/Windows/Engine.ini]
+[2021.08.05-17.25.45:418][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/user/Documents/UE4/Unreal_LIN_3D_FPS/FPS_3D_20210729/Saved/Config/Windows/Scalability.ini]
+[2021.08.05-17.25.45:418][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.08.05-17.25.45:418][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.08.05-17.25.45:418][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/user/Documents/UE4/Unreal_LIN_3D_FPS/FPS_3D_20210729/Saved/Config/Windows/Scalability.ini]
+[2021.08.05-17.25.45:418][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.08.05-17.25.45:418][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/user/Documents/UE4/Unreal_LIN_3D_FPS/FPS_3D_20210729/Saved/Config/Windows/Scalability.ini]
+[2021.08.05-17.25.45:418][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.08.05-17.25.45:418][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.08.05-17.25.45:418][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.08.05-17.25.45:418][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.08.05-17.25.45:418][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.08.05-17.25.45:418][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.08.05-17.25.45:418][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.08.05-17.25.45:418][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.08.05-17.25.45:418][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.08.05-17.25.45:418][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.08.05-17.25.45:418][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.08.05-17.25.45:419][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.08.05-17.25.45:419][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.08.05-17.25.45:419][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.08.05-17.25.45:419][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.08.05-17.25.45:419][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.08.05-17.25.45:419][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.08.05-17.25.45:419][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.08.05-17.25.45:419][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/user/Documents/UE4/Unreal_LIN_3D_FPS/FPS_3D_20210729/Saved/Config/Windows/Scalability.ini]
+[2021.08.05-17.25.45:419][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.08.05-17.25.45:419][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.08.05-17.25.45:419][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.08.05-17.25.45:419][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.08.05-17.25.45:419][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.08.05-17.25.45:419][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.08.05-17.25.45:419][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.08.05-17.25.45:419][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.08.05-17.25.45:419][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.08.05-17.25.45:419][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.08.05-17.25.45:419][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.08.05-17.25.45:419][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.08.05-17.25.45:419][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.08.05-17.25.45:419][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.08.05-17.25.45:419][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.08.05-17.25.45:419][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.08.05-17.25.45:419][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.08.05-17.25.45:419][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.08.05-17.25.45:419][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.08.05-17.25.45:419][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.08.05-17.25.45:419][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.08.05-17.25.45:419][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.08.05-17.25.45:419][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.08.05-17.25.45:419][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.08.05-17.25.45:419][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.08.05-17.25.45:419][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.08.05-17.25.45:419][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.08.05-17.25.45:419][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.08.05-17.25.45:419][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.08.05-17.25.45:419][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.08.05-17.25.45:419][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/user/Documents/UE4/Unreal_LIN_3D_FPS/FPS_3D_20210729/Saved/Config/Windows/Scalability.ini]
+[2021.08.05-17.25.45:419][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.08.05-17.25.45:419][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.08.05-17.25.45:419][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.08.05-17.25.45:419][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.08.05-17.25.45:419][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.08.05-17.25.45:419][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.08.05-17.25.45:419][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.08.05-17.25.45:419][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.08.05-17.25.45:419][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.08.05-17.25.45:419][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/user/Documents/UE4/Unreal_LIN_3D_FPS/FPS_3D_20210729/Saved/Config/Windows/Scalability.ini]
+[2021.08.05-17.25.45:419][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.08.05-17.25.45:419][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.08.05-17.25.45:419][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.08.05-17.25.45:419][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.08.05-17.25.45:419][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.08.05-17.25.45:419][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.08.05-17.25.45:419][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.08.05-17.25.45:419][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.08.05-17.25.45:419][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.08.05-17.25.45:419][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.08.05-17.25.45:419][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.08.05-17.25.45:419][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.08.05-17.25.45:419][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.08.05-17.25.45:420][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.08.05-17.25.45:420][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.08.05-17.25.45:420][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.08.05-17.25.45:420][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.08.05-17.25.45:420][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.08.05-17.25.45:420][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.08.05-17.25.45:420][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.08.05-17.25.45:420][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.08.05-17.25.45:420][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.08.05-17.25.45:420][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.08.05-17.25.45:420][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.08.05-17.25.45:420][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.08.05-17.25.45:420][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.08.05-17.25.45:420][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.08.05-17.25.45:420][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/user/Documents/UE4/Unreal_LIN_3D_FPS/FPS_3D_20210729/Saved/Config/Windows/Scalability.ini]
+[2021.08.05-17.25.45:420][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.08.05-17.25.45:420][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.08.05-17.25.45:420][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/user/Documents/UE4/Unreal_LIN_3D_FPS/FPS_3D_20210729/Saved/Config/Windows/Scalability.ini]
+[2021.08.05-17.25.45:420][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.08.05-17.25.45:420][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.08.05-17.25.45:420][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.08.05-17.25.45:420][  0]LogInit: Selected Device Profile: [Windows]
+[2021.08.05-17.25.45:420][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.08.05-17.25.45:420][  0]LogHAL: Display: Platform has ~ 8 GB [8517193728 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.08.05-17.25.45:420][  0]LogInit: Going up to parent DeviceProfile []
+[2021.08.05-17.25.45:420][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/user/Documents/UE4/Unreal_LIN_3D_FPS/FPS_3D_20210729/Saved/Config/Windows/Scalability.ini]
+[2021.08.05-17.25.45:420][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.08.05-17.25.45:420][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.08.05-17.25.45:420][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/user/Documents/UE4/Unreal_LIN_3D_FPS/FPS_3D_20210729/Saved/Config/Windows/Scalability.ini]
+[2021.08.05-17.25.45:420][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.08.05-17.25.45:420][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/user/Documents/UE4/Unreal_LIN_3D_FPS/FPS_3D_20210729/Saved/Config/Windows/Scalability.ini]
+[2021.08.05-17.25.45:420][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.08.05-17.25.45:420][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.08.05-17.25.45:420][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.08.05-17.25.45:420][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.08.05-17.25.45:420][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.08.05-17.25.45:420][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.08.05-17.25.45:420][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.08.05-17.25.45:420][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.08.05-17.25.45:420][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.08.05-17.25.45:420][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.08.05-17.25.45:420][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.08.05-17.25.45:420][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.08.05-17.25.45:420][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.08.05-17.25.45:420][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.08.05-17.25.45:420][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.08.05-17.25.45:420][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.08.05-17.25.45:420][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.08.05-17.25.45:420][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.08.05-17.25.45:420][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/user/Documents/UE4/Unreal_LIN_3D_FPS/FPS_3D_20210729/Saved/Config/Windows/Scalability.ini]
+[2021.08.05-17.25.45:421][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.08.05-17.25.45:421][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.08.05-17.25.45:421][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.08.05-17.25.45:421][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.08.05-17.25.45:421][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.08.05-17.25.45:421][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.08.05-17.25.45:421][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.08.05-17.25.45:421][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.08.05-17.25.45:421][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.08.05-17.25.45:421][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.08.05-17.25.45:421][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.08.05-17.25.45:421][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.08.05-17.25.45:421][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.08.05-17.25.45:421][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.08.05-17.25.45:421][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.08.05-17.25.45:421][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.08.05-17.25.45:421][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.08.05-17.25.45:421][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.08.05-17.25.45:421][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.08.05-17.25.45:421][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.08.05-17.25.45:421][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.08.05-17.25.45:421][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.08.05-17.25.45:421][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.08.05-17.25.45:421][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.08.05-17.25.45:421][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.08.05-17.25.45:421][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.08.05-17.25.45:421][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.08.05-17.25.45:421][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.08.05-17.25.45:421][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.08.05-17.25.45:421][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.08.05-17.25.45:421][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/user/Documents/UE4/Unreal_LIN_3D_FPS/FPS_3D_20210729/Saved/Config/Windows/Scalability.ini]
+[2021.08.05-17.25.45:421][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.08.05-17.25.45:421][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.08.05-17.25.45:421][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.08.05-17.25.45:421][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.08.05-17.25.45:421][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.08.05-17.25.45:421][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.08.05-17.25.45:421][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.08.05-17.25.45:421][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.08.05-17.25.45:421][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.08.05-17.25.45:421][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/user/Documents/UE4/Unreal_LIN_3D_FPS/FPS_3D_20210729/Saved/Config/Windows/Scalability.ini]
+[2021.08.05-17.25.45:421][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.08.05-17.25.45:421][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.08.05-17.25.45:421][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.08.05-17.25.45:421][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.08.05-17.25.45:421][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.08.05-17.25.45:421][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.08.05-17.25.45:421][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.08.05-17.25.45:421][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.08.05-17.25.45:421][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.08.05-17.25.45:421][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.08.05-17.25.45:421][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.08.05-17.25.45:421][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.08.05-17.25.45:421][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.08.05-17.25.45:421][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.08.05-17.25.45:421][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.08.05-17.25.45:421][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.08.05-17.25.45:421][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.08.05-17.25.45:421][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.08.05-17.25.45:421][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.08.05-17.25.45:421][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.08.05-17.25.45:421][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.08.05-17.25.45:421][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.08.05-17.25.45:422][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.08.05-17.25.45:422][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.08.05-17.25.45:422][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.08.05-17.25.45:422][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.08.05-17.25.45:422][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.08.05-17.25.45:422][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/user/Documents/UE4/Unreal_LIN_3D_FPS/FPS_3D_20210729/Saved/Config/Windows/Scalability.ini]
+[2021.08.05-17.25.45:422][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.08.05-17.25.45:422][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.08.05-17.25.45:422][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/user/Documents/UE4/Unreal_LIN_3D_FPS/FPS_3D_20210729/Saved/Config/Windows/Scalability.ini]
+[2021.08.05-17.25.45:422][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.08.05-17.25.45:422][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.08.05-17.25.45:422][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.08.05-17.25.45:422][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.08.05-17.25.45:475][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.08.05-17.25.45:475][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.08.05-17.25.45:475][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.08.05-17.25.45:475][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/user/Documents/UE4/Unreal_LIN_3D_FPS/FPS_3D_20210729/Saved/Config/Windows/Engine.ini]
+[2021.08.05-17.25.45:475][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/user/Documents/UE4/Unreal_LIN_3D_FPS/FPS_3D_20210729/Saved/Config/Windows/Editor.ini]
+[2021.08.05-17.25.45:475][  0]LogInit: Computer: DESKTOP-1JQDM7M
+[2021.08.05-17.25.45:475][  0]LogInit: User: user
+[2021.08.05-17.25.45:475][  0]LogInit: CPU Page size=4096, Cores=6
+[2021.08.05-17.25.45:475][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.08.05-17.25.45:475][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2021.08.05-17.25.45:475][  0]LogMemory: Platform Memory Stats for Windows
+[2021.08.05-17.25.45:475][  0]LogMemory: Process Physical Memory: 137.12 MB used, 137.12 MB peak
+[2021.08.05-17.25.45:475][  0]LogMemory: Process Virtual Memory: 118.36 MB used, 118.36 MB peak
+[2021.08.05-17.25.45:475][  0]LogMemory: Physical Memory: 7383.39 MB used,  739.24 MB free, 8122.63 MB total
+[2021.08.05-17.25.45:475][  0]LogMemory: Virtual Memory: 134210064.00 MB used,  7662.30 MB free, 134217728.00 MB total
+[2021.08.05-17.25.46:467][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.08.05-17.25.47:299][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.08.05-17.25.47:347][  0]LogInit: Overriding language with editor language configuration option (en).
+[2021.08.05-17.25.47:348][  0]LogInit: Using OS detected locale (zh-TW).
+[2021.08.05-17.25.48:522][  0]LogInit: Setting process to per monitor DPI aware
+[2021.08.05-17.25.48:849][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.08.05-17.25.49:275][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.08.05-17.25.49:275][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.08.05-17.25.59:447][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.08.05-17.25.59:447][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.08.05-17.25.59:447][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.08.05-17.25.59:447][  0]LogD3D11RHI: D3D11 adapters:
+[2021.08.05-17.25.59:872][  0]LogD3D11RHI:    0. 'Radeon RX 570 Series' (Feature Level 11_0)
+[2021.08.05-17.25.59:872][  0]LogD3D11RHI:       4075/0/4061 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x1002
+[2021.08.05-17.25.59:965][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.08.05-17.25.59:965][  0]LogD3D11RHI:       0/0/4061 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.08.05-17.25.59:965][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.08.05-17.25.59:980][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.08.05-17.25.59:981][  0]LogD3D11RHI:     GPU DeviceId: 0x67df (for the marketing name, search the web for "GPU Device Id")
+[2021.08.05-17.25.59:981][  0]LogWindows: EnumDisplayDevices:
+[2021.08.05-17.25.59:981][  0]LogWindows:    0. 'Radeon RX 570 Series' (P:1 D:1)
+[2021.08.05-17.25.59:981][  0]LogWindows:    1. 'Radeon RX 570 Series' (P:0 D:1)
+[2021.08.05-17.25.59:982][  0]LogWindows:    2. 'Radeon RX 570 Series' (P:0 D:0)
+[2021.08.05-17.25.59:982][  0]LogWindows:    3. 'Radeon RX 570 Series' (P:0 D:0)
+[2021.08.05-17.25.59:983][  0]LogWindows:    4. 'Radeon RX 570 Series' (P:0 D:0)
+[2021.08.05-17.25.59:983][  0]LogWindows:    5. 'Radeon RX 570 Series' (P:0 D:0)
+[2021.08.05-17.25.59:984][  0]LogWindows:    6. 'Radeon RX 570 Series' (P:0 D:0)
+[2021.08.05-17.25.59:984][  0]LogWindows:    7. 'Radeon RX 570 Series' (P:0 D:0)
+[2021.08.05-17.25.59:985][  0]LogWindows: DebugString: FoundDriverCount:8 
+[2021.08.05-17.25.59:985][  0]LogD3D11RHI:     Adapter Name: Radeon RX 570 Series
+[2021.08.05-17.25.59:985][  0]LogD3D11RHI:   Driver Version: Adrenalin 2020 21.5.2 (internal:27.20.21003.8013, unified:27.20.21003.8013)
+[2021.08.05-17.25.59:985][  0]LogD3D11RHI:      Driver Date: 5-11-2021
+[2021.08.05-17.25.59:985][  0]LogRHI: Texture pool is 2424 MB (70% of 3464 MB)
+[2021.08.05-17.26.00:294][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.08.05-17.26.00:294][  0]LogD3D11RHI: Async texture creation enabled
+[2021.08.05-17.26.00:294][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.08.05-17.26.00:309][  0]LogD3D11RHI: GPU Timing Frequency: 25.000000 (Debug: 2 1)
+[2021.08.05-17.26.09:233][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.08.05-17.26.09:549][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.08.05-17.26.09:550][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.08.05-17.26.09:550][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.08.05-17.26.09:550][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.08.05-17.26.09:550][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.08.05-17.26.09:550][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.08.05-17.26.09:550][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.08.05-17.26.09:550][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.08.05-17.26.09:550][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.08.05-17.26.09:550][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.08.05-17.26.09:749][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.08.05-17.26.09:749][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.08.05-17.26.10:247][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.08.05-17.26.10:744][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.08.05-17.26.10:786][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.08.05-17.26.10:846][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.08.05-17.26.10:916][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.08.05-17.26.11:216][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.08.05-17.26.11:261][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.08.05-17.26.11:343][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.08.05-17.26.11:343][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.08.05-17.26.11:994][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.08.05-17.26.12:209][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.08.05-17.26.12:463][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.08.05-17.26.12:591][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.08.05-17.26.12:874][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.08.05-17.26.12:874][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.08.05-17.26.13:088][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.08.05-17.26.13:183][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.08.05-17.26.13:219][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.08.05-17.26.13:361][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.08.05-17.26.13:361][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.08.05-17.26.13:814][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.08.05-17.26.15:363][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.08.05-17.26.15:364][  0]LogShaderCompilers: Guid format shader working directory is -16 characters bigger than the processId version (C:/Users/user/Documents/UE4/Unreal_LIN_3D_FPS/FPS_3D_20210729/Intermediate/Shaders/WorkingDirectory/1332/).
+[2021.08.05-17.26.15:364][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/user/AppData/Local/Temp/UnrealShaderWorkingDir/F26D01ED4B67BED833784CB245228EC4/'.
+[2021.08.05-17.26.15:364][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.08.05-17.26.15:364][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.08.05-17.26.29:853][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.08.05-17.26.31:290][  0]LogDerivedDataCache: Loaded boot cache 1.44s 77MB C:/Users/user/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.08.05-17.26.31:290][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/user/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.08.05-17.26.31:290][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/user/Documents/UE4/Unreal_LIN_3D_FPS/FPS_3D_20210729/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.08.05-17.26.31:290][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.08.05-17.26.31:290][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/user/Documents/UE4/Unreal_LIN_3D_FPS/FPS_3D_20210729/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.08.05-17.26.31:290][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.08.05-17.26.31:501][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.08.05-17.26.31:501][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.08.05-17.26.31:501][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.08.05-17.26.31:864][  0]LogDerivedDataCache: Speed tests for C:/Users/user/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.36 seconds
+[2021.08.05-17.26.31:864][  0]LogDerivedDataCache: Display: Performance to C:/Users/user/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.05ms. RandomReadSpeed=3.37MBs, RandomWriteSpeed=10.86MBs. Assigned SpeedClass 'Local'
+[2021.08.05-17.26.31:865][  0]LogDerivedDataCache: Using Local data cache path C:/Users/user/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.08.05-17.26.31:865][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.08.05-17.26.31:865][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.08.05-17.26.31:929][  0]LogSlate: Using FreeType 2.10.0
+[2021.08.05-17.26.32:101][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.08.05-17.26.32:620][  0]LogAssetRegistry: FAssetRegistry took 0.0033 seconds to start up
+[2021.08.05-17.26.33:104][  0]LogInit: Selected Device Profile: [Windows]
+[2021.08.05-17.26.33:104][  0]LogInit: Active device profile: [000002A856E86300][000002A857B1F040 49] Windows
+[2021.08.05-17.26.33:104][  0]LogInit: Profiles: [000002A856E86300][000002A857B1F040 49] Windows, [000002A856D42700][000002A857B271C0 49] WindowsNoEditor, [000002A856E85500][000002A857B2B340 49] WindowsServer, [000002A856D43400][000002A857B2F4C0 49] WindowsClient, [000002A856E85E00][000002A857B23600 49] IOS, [000002A856D41500][000002A857B33740 49] iPadAir, [000002A856E85100][000002A857B37880 49] iPadAir2, [000002A856CE9F00][000002A857B43B00 49] IPadPro, [000002A856CEA000][000002A857B3BB40 49] iPadAir3, [000002A856D43E00][000002A857B47CC0 49] iPadAir4, [000002A856CEB700][000002A857B4A180 49] iPadMini2, [000002A856D41000][000002A857B4E300 49] iPadMini3, [000002A856CE9700][000002A857B52480 49] iPadMini4, [000002A856D43800][000002A857B56600 49] iPadMini5, [000002A856D21800][000002A857B708C0 49] iPhone6, [000002A856D21900][000002A857B5A900 49] iPodTouch6, [000002A856E86C00][000002A857B78BC0 49] iPhone7, [000002A856E86D00][000002A857B74C00 49] iPodTouch7, [000002A856D22600][000002A857B7CD80 49] iPhone5S, [000002A856E84500][000002A857B80F00 49] iPhone6Plus, [000002A856D23100][000002A857B85080 49] iPhone6S, [000002A856E86F00][000002A857B89200 49] iPhone6SPlus, [000002A856D22100][000002A857B8D380 49] iPhone7Plus, [000002A856E86200][000002A857B91500 49] iPhoneSE, [000002A856D20E00][000002A857B3F640 49] iPhone8, [000002A856E86100][000002A857B95780 49] iPhone8Plus, [000002A856D23C00][000002A857B998C0 49] iPhoneX, [000002A856D40C00][000002A857B9DA00 49] iPhoneXS, [000002A856D21000][000002A857BA5B80 49] iPhoneXSMax, [000002A856D41600][000002A857BA9D00 49] iPhoneXR, [000002A856D22500][000002A857BAC1C0 49] iPhone11, [000002A856D41C00][000002A857BB0340 49] iPhone11Pro, [000002A856D23000][000002A857BB44C0 49] iPhone11ProMax, [000002A856D41A00][000002A857BB8640 49] iPhoneSE2, [000002A856D21F00][000002A857BBC7C0 49] iPhone12Mini, [000002A856D42200][000002A857BC0940 49] iPhone12, [000002A856D20100][000002A857BC4AC0 49] iPhone12Pro, [000002A856D40100][000002A857BC8C40 49] iPhone12ProMax, [000002A856D22700][000002A857BCCDC0 49] iPadPro105, [000002A856D43500][000002A857BD0F40 49] iPadPro129, [000002A856D20A00][000002A857BD50C0 49] iPadPro97, [000002A856D42D00][000002A857BD9240 49] iPadPro2_129, [000002A856D23500][000002A857BDD3C0 49] iPad5, [000002A856D41700][000002A857BE1540 49] iPad6, [000002A856D21D00][000002A857BE56C0 49] iPad7, [000002A856D40800][000002A857BA1800 49] iPad8, [000002A856D20200][000002A857C13940 49] iPadPro11, [000002A856D40200][000002A857C17A80 49] iPadPro2_11, [000002A856D23D00][000002A857C1FC00 49] iPadPro3_129, [000002A856D41B00][000002A857C260C0 49] iPadPro4_129, [000002A856D21E00][000002A857C2A240 49] AppleTV, [000002A856D41F00][000002A857C2E3C0 49] AppleTV4K, [000002A856D23B00][000002A857C32540 49] TVOS, [000002A856D40D00][000002A857C366C0 49] Mac, [000002A856D22F00][000002A857C3A840 49] MacClient, [000002A856D41D00][000002A857C3E9C0 49] MacNoEditor, [000002A856D20600][000002A857C42B40 49] MacServer, [000002A856D42400][000002A857C46CC0 49] Linux, [000002A856D23600][000002A857C4AE40 49] LinuxAArch64, [000002A856D40B00][000002A857C4EFC0 49] LinuxNoEditor, [000002A856D22400][000002A857C53140 49] LinuxAArch64NoEditor, [000002A856D42E00][000002A857C572C0 49] LinuxClient, [000002A856D22300][000002A857C5B440 49] LinuxAArch64Client, [000002A856D43000][000002A857C5F5C0 49] LinuxServer, [000002A856D22E00][000002A857C63740 49] LinuxAArch64Server, [000002A856D42A00][000002A857C1B880 49] Android, [000002A856D22B00][000002A857C679C0 49] Android_Low, [000002A856D43900][000002A857C6BB00 49] Android_Mid, [000002A856D21C00][000002A857C6FC40 49] Android_High, [000002A856D43B00][000002A857C76100 49] Android_Default, [000002A856D22900][000002A857C7A280 49] Android_Adreno4xx, [000002A856D43600][000002A857C7E400 49] Android_Adreno5xx_Low, [000002A856D21600][000002A857C82580 49] Android_Adreno5xx, [000002A856D43300][000002A857C86700 49] Android_Adreno6xx, [000002A856D20B00][000002A857C8A880 49] Android_Adreno6xx_Vulkan, [000002A856D41200][000002A857C8EA00 49] Android_Mali_T6xx, [000002A856D20700][000002A857C92B80 49] Android_Mali_T7xx, [000002A856CEA800][000002A857C96D00 49] Android_Mali_T8xx, [000002A856E87000][000002A857C9AE80 49] Android_Mali_G71, [000002A856CE9B00][000002A857C9F000 49] Android_Mali_G72, [000002A856E84600][000002A857CA3180 49] Android_Mali_G72_Vulkan, [000002A856CE8800][000002A857CA7300 49] Android_Mali_G76, [000002A856E85B00][000002A857CAB480 49] Android_Mali_G76_Vulkan, [000002A856CE9D00][000002A857CAF600 49] Android_Mali_G77, [000002A856E84300][000002A857CB3780 49] Android_Mali_G77_Vulkan, [000002A856CE9E00][000002A857C738C0 49] Android_Vulkan_SM5, [000002A856E85200][000002A857CB7A00 49] Android_PowerVR_G6xxx, [000002A856CEB800][000002A857CBBB40 49] Android_PowerVR_GT7xxx, [000002A856E84A00][000002A857CBFC80 49] Android_PowerVR_GE8xxx, [000002A856CE8A00][000002A857CC6140 49] Android_PowerVR_GM9xxx, [000002A856E87100][000002A857CCA2C0 49] Android_PowerVR_GM9xxx_Vulkan, [000002A856CEBF00][000002A857CCE440 49] Android_TegraK1, [000002A856E85800][000002A857CD25C0 49] Android_Unknown_Vulkan, [000002A856CEA300][000002A857CD6740 49] Lumin, [000002A856E86E00][000002A857CDA8C0 49] Lumin_Desktop, [000002A856CEA900][000002A857CDEA40 49] HoloLens, 
+[2021.08.05-17.26.35:287][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.08.05-17.26.35:287][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.08.05-17.26.35:287][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.08.05-17.26.35:287][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.08.05-17.26.35:287][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.08.05-17.26.36:366][  0]LogNetVersion: FPS_3D_20210729 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 2030163675)
+[2021.08.05-17.26.51:645][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.08.05-17.26.52:394][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.748805 seconds
+[2021.08.05-17.26.52:401][  0]LogUObjectArray: 16831 objects as part of root set at end of initial load.
+[2021.08.05-17.26.52:401][  0]LogUObjectAllocator: 4209728 out of 0 bytes used by permanent object pool.
+[2021.08.05-17.26.52:401][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.08.05-17.26.56:362][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.08.05-17.26.56:396][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.08.05-17.26.57:113][  0]SourceControl: Source control is disabled
+[2021.08.05-17.26.57:113][  0]SourceControl: Source control is disabled
+[2021.08.05-17.26.57:151][  0]SourceControl: Source control is disabled
+[2021.08.05-17.26.57:217][  0]SourceControl: Source control is disabled
+[2021.08.05-17.26.57:232][  0]SourceControl: Source control is disabled
+[2021.08.05-17.26.57:408][  0]LogUProjectInfo: Found projects:
+[2021.08.05-17.26.57:460][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.08.05-17.26.57:461][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.08.05-17.27.02:300][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.08.05-17.27.02:625][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.08.05-17.27.02:625][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.08.05-17.27.03:188][  0]LogCollectionManager: Loaded 0 collections in 0.000843 seconds
+[2021.08.05-17.27.03:348][  0]LogFileCache: Scanning file cache for directory 'C:/Users/user/Documents/UE4/Unreal_LIN_3D_FPS/FPS_3D_20210729/Saved/Collections/' took 0.00s
+[2021.08.05-17.27.03:348][  0]LogFileCache: Scanning file cache for directory 'C:/Users/user/Documents/UE4/Unreal_LIN_3D_FPS/FPS_3D_20210729/Content/Developers/user/Collections/' took 0.00s
+[2021.08.05-17.27.03:348][  0]LogFileCache: Scanning file cache for directory 'C:/Users/user/Documents/UE4/Unreal_LIN_3D_FPS/FPS_3D_20210729/Content/Collections/' took 0.00s
+[2021.08.05-17.27.03:348][  0]LogOcInput: OculusInput pre-init called
+[2021.08.05-17.27.03:470][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.08.05-17.27.03:470][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.08.05-17.27.03:775][  0]LogEngine: Initializing Engine...
+[2021.08.05-17.27.03:932][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.08.05-17.27.03:940][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.08.05-17.27.03:970][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.08.05-17.27.04:152][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.08.05-17.27.04:223][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.08.05-17.27.04:224][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.08.05-17.27.04:349][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.08.05-17.27.04:349][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.08.05-17.27.04:349][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.05-17.27.04:349][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.05-17.27.04:349][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.05-17.27.04:349][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.05-17.27.04:349][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.05-17.27.04:349][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.05-17.27.04:350][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.05-17.27.04:350][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.05-17.27.04:350][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.05-17.27.04:350][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.05-17.27.04:400][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.05-17.27.04:400][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.08.05-17.27.04:400][  0]LogAudioMixer: Display: 2: FrontCenter
+[2021.08.05-17.27.04:400][  0]LogAudioMixer: Display: 3: LowFrequency
+[2021.08.05-17.27.04:400][  0]LogAudioMixer: Display: 4: BackLeft
+[2021.08.05-17.27.04:400][  0]LogAudioMixer: Display: 5: BackRight
+[2021.08.05-17.27.04:400][  0]LogAudioMixer: Display: 6: SideLeft
+[2021.08.05-17.27.04:400][  0]LogAudioMixer: Display: 7: SideRight
+[2021.08.05-17.27.04:621][  0]LogAudioMixer: Display: Using Audio Device 喇叭 (Realtek High Definition Audio)
+[2021.08.05-17.27.04:626][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.05-17.27.04:627][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.05-17.27.04:628][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.05-17.27.04:629][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.05-17.27.04:629][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.05-17.27.04:629][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.08.05-17.27.04:631][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.05-17.27.04:631][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.05-17.27.04:631][  0]LogInit: FAudioDevice initialized.
+[2021.08.05-17.27.04:632][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.08.05-17.27.04:632][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.08.05-17.27.05:187][  0]LogDerivedDataCache: Saved boot cache 0.55s 77MB C:/Users/user/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.08.05-17.27.05:188][  0]LogInit: Texture streaming: Enabled
+[2021.08.05-17.27.05:377][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
+[2021.08.05-17.27.05:531][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.08.05-17.27.05:532][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.08.05-17.27.05:580][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.08.05-17.27.05:910][  0]LogInit: Transaction tracking system initialized
+[2021.08.05-17.27.06:884][  0]BlueprintLog: New page: Editor Load
+[2021.08.05-17.27.08:554][  0]LocalizationService: Localization service is disabled
+[2021.08.05-17.27.08:904][  0]TimingProfiler: Initialize
+[2021.08.05-17.27.08:904][  0]TimingProfiler: OnSessionChanged
+[2021.08.05-17.27.08:904][  0]LoadingProfiler: Initialize
+[2021.08.05-17.27.08:904][  0]LoadingProfiler: OnSessionChanged
+[2021.08.05-17.27.08:904][  0]NetworkingProfiler: Initialize
+[2021.08.05-17.27.08:904][  0]NetworkingProfiler: OnSessionChanged
+[2021.08.05-17.27.08:904][  0]MemoryProfiler: Initialize
+[2021.08.05-17.27.08:905][  0]MemoryProfiler: OnSessionChanged
+[2021.08.05-17.27.09:671][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.08.05-17.27.09:672][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.08.05-17.27.10:445][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.08.05-17.27.10:446][  0]LogCook: Display: Mobile HDR setting 1
+[2021.08.05-17.27.10:995][  0]LogFileCache: Scanning file cache for directory 'C:/Users/user/Documents/UE4/Unreal_LIN_3D_FPS/FPS_3D_20210729/Content/' took 0.11s
+[2021.08.05-17.27.12:580][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.08.05-17.27.12:729][  0]SourceControl: Source control is disabled
+[2021.08.05-17.27.12:729][  0]LogUnrealEdMisc: Loading editor; pre map load, took 118.287
+[2021.08.05-17.27.12:729][  0]Cmd: MAP LOAD FILE="C:/Users/user/Documents/UE4/Unreal_LIN_3D_FPS/FPS_3D_20210729/Content/地圖/遊戲場景.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.08.05-17.27.12:824][  0]LightingResults: New page: Lighting Build
+[2021.08.05-17.27.12:870][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.08.05-17.27.12:870][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.05-17.27.12:870][  0]MapCheck: New page: Map Check
+[2021.08.05-17.27.12:870][  0]LightingResults: New page: Lighting Build
+[2021.08.05-17.27.12:878][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2021.08.05-17.27.43:412][  0]LogAudio: Display: Audio Device (ID: 1) registered with world '遊戲場景'.
+[2021.08.05-17.27.43:414][  0]LogAIModule: Creating AISystem for world 遊戲場景
+[2021.08.05-17.27.43:643][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.08.05-17.27.43:848][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2021.08.05-17.27.43:962][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.08.05-17.27.43:962][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.241ms to complete.
+[2021.08.05-17.27.43:963][  0]LogFileHelpers: Loading map '遊戲場景' took 31.234
+[2021.08.05-17.27.43:993][  0]LogUnrealEdMisc: Total Editor Startup Time, took 149.552
+[2021.08.05-17.27.47:236][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.05-17.27.47:273][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.05-17.27.47:285][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.05-17.27.47:293][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.05-17.27.47:588][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0126 seconds. Added 3601 classes and 859 folders.
+[2021.08.05-17.27.47:755][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2021.08.05-17.27.48:044][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.08.05-17.27.48:044][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.05-17.27.48:044][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.08.05-17.27.48:045][  0]LogPakFile: OnPakFileMounted2Time == 0.000013
+[2021.08.05-17.27.48:122][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.08.05-17.27.48:122][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.05-17.27.48:122][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.08.05-17.27.48:122][  0]LogPakFile: OnPakFileMounted2Time == 0.000018
+[2021.08.05-17.27.48:146][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.08.05-17.27.48:146][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.05-17.27.48:146][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.08.05-17.27.48:146][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2021.08.05-17.27.48:162][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.08.05-17.27.48:162][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.05-17.27.48:162][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.08.05-17.27.48:162][  0]LogPakFile: OnPakFileMounted2Time == 0.000060
+[2021.08.05-17.27.48:233][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.08.05-17.27.48:233][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.05-17.27.48:233][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.08.05-17.27.48:233][  0]LogPakFile: OnPakFileMounted2Time == 0.000065
+[2021.08.05-17.27.48:299][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.08.05-17.27.48:299][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.05-17.27.48:299][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.08.05-17.27.48:299][  0]LogPakFile: OnPakFileMounted2Time == 0.000070
+[2021.08.05-17.27.48:375][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.08.05-17.27.48:375][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.05-17.27.48:375][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.08.05-17.27.48:375][  0]LogPakFile: OnPakFileMounted2Time == 0.000077
+[2021.08.05-17.27.48:426][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.08.05-17.27.48:426][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.05-17.27.48:426][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.08.05-17.27.48:426][  0]LogPakFile: OnPakFileMounted2Time == 0.000083
+[2021.08.05-17.27.48:527][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.08.05-17.27.48:527][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.05-17.27.48:527][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.08.05-17.27.48:527][  0]LogPakFile: OnPakFileMounted2Time == 0.000088
+[2021.08.05-17.27.48:580][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.08.05-17.27.48:580][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.05-17.27.48:580][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.08.05-17.27.48:580][  0]LogPakFile: OnPakFileMounted2Time == 0.000093
+[2021.08.05-17.27.48:644][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.08.05-17.27.48:644][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.05-17.27.48:644][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.08.05-17.27.48:644][  0]LogPakFile: OnPakFileMounted2Time == 0.000099
+[2021.08.05-17.27.48:696][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.08.05-17.27.48:696][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.05-17.27.48:696][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.08.05-17.27.48:696][  0]LogPakFile: OnPakFileMounted2Time == 0.000104
+[2021.08.05-17.27.48:718][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.08.05-17.27.48:718][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.05-17.27.48:718][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.08.05-17.27.48:718][  0]LogPakFile: OnPakFileMounted2Time == 0.000110
+[2021.08.05-17.27.48:751][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.08.05-17.27.48:751][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.05-17.27.48:751][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.08.05-17.27.48:752][  0]LogPakFile: OnPakFileMounted2Time == 0.000117
+[2021.08.05-17.27.48:787][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.08.05-17.27.48:787][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.05-17.27.48:787][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.08.05-17.27.48:787][  0]LogPakFile: OnPakFileMounted2Time == 0.000123
+[2021.08.05-17.27.48:831][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.08.05-17.27.48:831][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.05-17.27.48:831][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.08.05-17.27.48:831][  0]LogPakFile: OnPakFileMounted2Time == 0.000128
+[2021.08.05-17.27.48:938][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.08.05-17.27.48:939][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.05-17.27.48:939][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.08.05-17.27.48:939][  0]LogPakFile: OnPakFileMounted2Time == 0.000134
+[2021.08.05-17.27.48:957][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.08.05-17.27.48:957][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.05-17.27.48:957][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.08.05-17.27.48:957][  0]LogPakFile: OnPakFileMounted2Time == 0.000140
+[2021.08.05-17.27.48:967][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.08.05-17.27.48:967][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.05-17.27.48:967][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.08.05-17.27.48:967][  0]LogPakFile: OnPakFileMounted2Time == 0.000145
+[2021.08.05-17.27.49:030][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.08.05-17.27.49:031][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.05-17.27.49:031][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.08.05-17.27.49:031][  0]LogPakFile: OnPakFileMounted2Time == 0.000150
+[2021.08.05-17.27.49:100][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.08.05-17.27.49:100][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.05-17.27.49:100][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.08.05-17.27.49:100][  0]LogPakFile: OnPakFileMounted2Time == 0.000157
+[2021.08.05-17.27.49:222][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.08.05-17.27.49:222][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.05-17.27.49:222][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.08.05-17.27.49:222][  0]LogPakFile: OnPakFileMounted2Time == 0.000163
+[2021.08.05-17.27.49:282][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.08.05-17.27.49:282][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.05-17.27.49:282][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.08.05-17.27.49:282][  0]LogPakFile: OnPakFileMounted2Time == 0.000170
+[2021.08.05-17.27.49:318][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.08.05-17.27.49:318][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.05-17.27.49:318][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.08.05-17.27.49:318][  0]LogPakFile: OnPakFileMounted2Time == 0.000176
+[2021.08.05-17.27.49:355][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.08.05-17.27.49:355][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.05-17.27.49:355][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.08.05-17.27.49:355][  0]LogPakFile: OnPakFileMounted2Time == 0.000181
+[2021.08.05-17.27.49:380][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.08.05-17.27.49:380][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.05-17.27.49:380][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.08.05-17.27.49:380][  0]LogPakFile: OnPakFileMounted2Time == 0.000186
+[2021.08.05-17.27.51:297][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.08.05-17.27.51:367][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 0 folders.
+[2021.08.05-17.27.53:583][  0]LogSlate: Took 0.035660 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.08.05-17.27.53:842][  0]LogSlate: Took 0.257750 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2021.08.05-17.27.53:893][  0]LogSlate: Took 0.015573 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.08.05-17.27.54:408][  0]LogSlate: Took 0.157312 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.08.05-17.27.55:462][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 10 NumSamples 1 (Frame:1).
+[2021.08.05-17.27.57:415][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.08.05-17.27.57:415][  0]LogInput: Warning: Action Jump uses invalid key OculusGo_Left_Trigger_Click.
+[2021.08.05-17.27.57:415][  0]LogInput: Warning: Action ResetVR uses invalid key OculusGo_Left_Trackpad_Click.
+[2021.08.05-17.27.57:415][  0]LogInput: Warning: Use -RemoveInvalidKeys to remove instances of these keys from the action mapping.
+[2021.08.05-17.27.57:415][  0]LogLoad: (Engine Initialization) Total time: 162.97 seconds
+[2021.08.05-17.27.57:415][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.08.05-17.27.57:415][  0]LogInit: First time updating LLM stats...
+[2021.08.05-17.27.57:664][  0]LogAssetRegistry: Asset discovery search completed in 85.0453 seconds
+[2021.08.05-17.27.57:666][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000000 seconds (updated 0 objects)
+[2021.08.05-17.27.57:883][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.08.05-17.27.58:828][  3]LogSlate: Took 0.032378 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.08.05-17.42.07:496][467]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\user\Downloads\Ch01_nonPBR.fbx)
+[2021.08.05-17.42.07:948][467]LogFbx: Loading FBX Scene from C:\Users\user\Downloads\Ch01_nonPBR.fbx
+[2021.08.05-17.42.08:367][467]LogFbx: FBX Scene Loaded Succesfully
+[2021.08.05-17.42.47:802][467]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.08.05-17.42.48:319][467]LogFbx: Valid bind pose for Pose (skinCluster2) - Ch01_Body
+[2021.08.05-17.42.48:319][467]LogFbx: Valid bind pose for Pose (skinCluster3) - Ch01_Body
+[2021.08.05-17.42.48:319][467]LogFbx: Valid bind pose for Pose (skinCluster4) - Ch01_Body
+[2021.08.05-17.42.48:319][467]LogFbx: Valid bind pose for Pose (skinCluster5) - Ch01_Body
+[2021.08.05-17.42.48:319][467]LogFbx: Valid bind pose for Pose (skinCluster6) - Ch01_Body
+[2021.08.05-17.42.48:375][467]LogMaterial: Display: Material /Game/玩家/Ch01_body.Ch01_body needed to have new flag set bUsedWithSkeletalMesh !
+[2021.08.05-17.42.48:386][467]LogMaterial: Display: Missing cached shader map for material Ch01_body, compiling. 
+[2021.08.05-17.42.48:725][467]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 24
+[2021.08.05-17.42.48:725][467]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 20
+[2021.08.05-17.42.48:725][467]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 16
+[2021.08.05-17.42.48:725][467]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 12
+[2021.08.05-17.42.48:725][467]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 8
+[2021.08.05-17.42.48:725][467]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.08.05-17.42.49:758][467]LogTexture: Display: Building textures: Ch01_1001_Diffuse (AutoDXT, 4096X4096)
+[2021.08.05-17.42.58:180][467]LogTexture: Display: Building textures: Ch01_1001_Specular (AutoDXT, 4096X4096)
+[2021.08.05-17.42.59:440][467]LogTexture: Display: Building textures: Ch01_1001_Glossiness (AutoDXT, 4096X4096)
+[2021.08.05-17.43.02:068][467]LogTexture: Display: Building textures: Ch01_1001_Normal (BC5, 4096X4096)
+[2021.08.05-17.43.03:497][467]LogMaterial: Display: Missing cached shader map for material Ch01_body, compiling. 
+[2021.08.05-17.43.04:371][467]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 24
+[2021.08.05-17.43.04:372][467]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 20
+[2021.08.05-17.43.08:746][467]LogFbx: Triangulating skeletal mesh Ch01_Body
+[2021.08.05-17.43.10:295][467]LogFbx: Triangulating skeletal mesh Ch01_Shirt
+[2021.08.05-17.43.10:787][467]LogMaterial: Display: Material /Game/玩家/Ch01_hair.Ch01_hair needed to have new flag set bUsedWithSkeletalMesh !
+[2021.08.05-17.43.11:470][467]LogMaterial: Display: Missing cached shader map for material Ch01_hair, compiling. 
+[2021.08.05-17.43.12:596][467]LogTexture: Display: Building textures: Ch01_1001_Diffuse_ncl1_1 (AutoDXT, 4096X4096)
+[2021.08.05-17.43.17:484][467]LogTexture: Display: Building textures: Ch01_1001_Normal_ncl1_1 (BC5, 4096X4096)
+[2021.08.05-17.43.19:528][467]LogTexture: Display: Building textures: Ch01_1001_Diffuse_ncl1_1 (AutoDXT, 4096X4096)
+[2021.08.05-17.43.23:575][467]LogMaterial: Display: Missing cached shader map for material Ch01_hair, compiling. 
+[2021.08.05-17.43.23:882][467]LogFbx: Triangulating skeletal mesh Ch01_Eyelashes
+[2021.08.05-17.43.23:914][467]LogFbx: Triangulating skeletal mesh Ch01_Sneakers
+[2021.08.05-17.43.24:096][467]LogFbx: Triangulating skeletal mesh Ch01_Pants
+[2021.08.05-17.43.24:915][467]LogFbx: Warning: Bones digested - 65  Depth of hierarchy - 12
+[2021.08.05-17.43.28:079][467]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 72
+[2021.08.05-17.43.28:079][467]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 62
+[2021.08.05-17.43.28:079][467]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 54
+[2021.08.05-17.43.28:079][467]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 47
+[2021.08.05-17.43.28:079][467]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 40
+[2021.08.05-17.43.28:079][467]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 33
+[2021.08.05-17.43.28:079][467]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 28
+[2021.08.05-17.43.28:079][467]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 23
+[2021.08.05-17.43.28:864][467]LogSkeletalMesh: Section 0: Material=0, 41980 triangles
+[2021.08.05-17.43.28:864][467]LogSkeletalMesh: Section 1: Material=1, 832 triangles
+[2021.08.05-17.43.34:494][467]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 18
+[2021.08.05-17.43.34:494][467]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 15
+[2021.08.05-17.43.34:494][467]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 13
+[2021.08.05-17.43.34:494][467]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 11
+[2021.08.05-17.43.34:494][467]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 9
+[2021.08.05-17.43.34:494][467]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 7
+[2021.08.05-17.43.34:494][467]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 6
+[2021.08.05-17.43.34:494][467]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 5
+[2021.08.05-17.43.35:017][467]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2021.08.05-17.43.35:017][467]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 3
+[2021.08.05-17.43.35:017][467]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2021.08.05-17.43.35:017][467]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2021.08.05-17.43.35:017][467]LogSkeletalMesh: Building Skeletal Mesh Ch01_nonPBR...
+[2021.08.05-17.43.37:311][467]LogSkeletalMesh: Section 0: Material=0, 41980 triangles
+[2021.08.05-17.43.37:311][467]LogSkeletalMesh: Section 1: Material=1, 832 triangles
+[2021.08.05-17.43.37:500][467]LogSkeletalMesh: Built Skeletal Mesh [2.66s] /Game/玩家/Ch01_nonPBR.Ch01_nonPBR
+[2021.08.05-17.43.40:108][467]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2021.08.05-17.43.40:265][467]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.05-17.43.42:202][467]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture 'Ch01_1001_Diffuse' was renamed 'Ch01_1001_Diffuse_ncl1_1' 
+[2021.08.05-17.43.42:202][467]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture 'Ch01_1001_Normal' was renamed 'Ch01_1001_Normal_ncl1_1' 
+[2021.08.05-17.43.42:202][467]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.08.05-17.43.44:928][467]LogSlate: Took 0.387819 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.08.05-17.43.50:530][468]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2021.08.05-17.43.50:944][468]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/地圖/遊戲場景' took 1.905
+[2021.08.05-17.43.51:238][468]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/玩家/Ch01_nonPBR] ([1] browsable assets)...
+[2021.08.05-17.43.51:502][468]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/玩家/Ch01_nonPBR.Ch01_nonPBR]
+[2021.08.05-17.43.51:502][468]OBJ SavePackage: Finished generating thumbnails for package [/Game/玩家/Ch01_nonPBR]
+[2021.08.05-17.43.51:503][468]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/玩家/Ch01_nonPBR" FILE="C:/Users/user/Documents/UE4/Unreal_LIN_3D_FPS/FPS_3D_20210729/Saved/Autosaves/Game/玩家/Ch01_nonPBR_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2021.08.05-17.43.52:185][468]LogSavePackage: Moving 'C:/Users/user/Documents/UE4/Unreal_LIN_3D_FPS/FPS_3D_20210729/Saved/Ch01_nonPBR_Auto1DB9147034C7866847855A099284AA9A9.tmp' to 'C:/Users/user/Documents/UE4/Unreal_LIN_3D_FPS/FPS_3D_20210729/Saved/Autosaves/Game/玩家/Ch01_nonPBR_Auto1.uasset'
+[2021.08.05-17.43.52:621][468]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/玩家/Ch01_nonPBR_Skeleton] ([1] browsable assets)...
+[2021.08.05-17.43.52:621][468]OBJ SavePackage: Finished generating thumbnails for package [/Game/玩家/Ch01_nonPBR_Skeleton]
+[2021.08.05-17.43.52:745][468]LogSavePackage: Moving 'C:/Users/user/Documents/UE4/Unreal_LIN_3D_FPS/FPS_3D_20210729/Saved/Ch01_nonPBR_Skeleton_Auto10B41C3414BCFB33C1324A8A78DD44E48.tmp' to 'C:/Users/user/Documents/UE4/Unreal_LIN_3D_FPS/FPS_3D_20210729/Saved/Autosaves/Game/玩家/Ch01_nonPBR_Skeleton_Auto1.uasset'
+[2021.08.05-17.43.52:747][468]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/玩家/Ch01_nonPBR_PhysicsAsset] ([1] browsable assets)...
+[2021.08.05-17.43.53:017][468]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/玩家/Ch01_nonPBR_PhysicsAsset.Ch01_nonPBR_PhysicsAsset]
+[2021.08.05-17.43.53:017][468]OBJ SavePackage: Finished generating thumbnails for package [/Game/玩家/Ch01_nonPBR_PhysicsAsset]
+[2021.08.05-17.43.53:130][468]LogSavePackage: Moving 'C:/Users/user/Documents/UE4/Unreal_LIN_3D_FPS/FPS_3D_20210729/Saved/Ch01_nonPBR_PhysicsAsset_Auto1B1957126451B69BD9CC6C08EC0709C29.tmp' to 'C:/Users/user/Documents/UE4/Unreal_LIN_3D_FPS/FPS_3D_20210729/Saved/Autosaves/Game/玩家/Ch01_nonPBR_PhysicsAsset_Auto1.uasset'
+[2021.08.05-17.43.53:137][468]LogFileHelpers: Auto-saving content packages took 2.192
+[2021.08.05-17.43.56:827][560]LogSlate: Window 'Message Log' being destroyed
+[2021.08.05-17.43.56:832][560]LogSlate: Window 'Message Log' being destroyed
+[2021.08.06-00.37.54:661][375]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (CorridorA_Floor_3X3)
+[2021.08.06-01.01.01:094][443]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\user\Desktop\UI\Walk Backward .fbx)
+[2021.08.06-01.01.02:173][443]LogFbx: Loading FBX Scene from C:\Users\user\Desktop\UI\Walk Backward .fbx
+[2021.08.06-01.01.02:621][443]LogFbx: FBX Scene Loaded Succesfully
+[2021.08.06-01.02.07:538][443]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.08.06-01.02.08:841][443]LogFbx: SortedLinks :(0) Hips
+[2021.08.06-01.02.08:841][443]LogFbx: SortedLinks :(1) Spine
+[2021.08.06-01.02.08:841][443]LogFbx: SortedLinks :(2) Spine1
+[2021.08.06-01.02.08:841][443]LogFbx: SortedLinks :(3) Spine2
+[2021.08.06-01.02.08:841][443]LogFbx: SortedLinks :(4) Neck
+[2021.08.06-01.02.08:841][443]LogFbx: SortedLinks :(5) Head
+[2021.08.06-01.02.08:841][443]LogFbx: SortedLinks :(6) HeadTop_End
+[2021.08.06-01.02.08:841][443]LogFbx: SortedLinks :(7) LeftShoulder
+[2021.08.06-01.02.08:841][443]LogFbx: SortedLinks :(8) LeftArm
+[2021.08.06-01.02.08:841][443]LogFbx: SortedLinks :(9) LeftForeArm
+[2021.08.06-01.02.08:841][443]LogFbx: SortedLinks :(10) LeftHand
+[2021.08.06-01.02.08:841][443]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2021.08.06-01.02.08:841][443]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2021.08.06-01.02.08:841][443]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2021.08.06-01.02.08:841][443]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2021.08.06-01.02.08:841][443]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2021.08.06-01.02.08:841][443]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2021.08.06-01.02.08:841][443]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2021.08.06-01.02.08:841][443]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2021.08.06-01.02.08:842][443]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2021.08.06-01.02.08:842][443]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2021.08.06-01.02.08:842][443]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2021.08.06-01.02.08:842][443]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2021.08.06-01.02.08:842][443]LogFbx: SortedLinks :(23) LeftHandRing1
+[2021.08.06-01.02.08:842][443]LogFbx: SortedLinks :(24) LeftHandRing2
+[2021.08.06-01.02.08:842][443]LogFbx: SortedLinks :(25) LeftHandRing3
+[2021.08.06-01.02.08:842][443]LogFbx: SortedLinks :(26) LeftHandRing4
+[2021.08.06-01.02.08:842][443]LogFbx: SortedLinks :(27) LeftHandPinky1
+[2021.08.06-01.02.08:842][443]LogFbx: SortedLinks :(28) LeftHandPinky2
+[2021.08.06-01.02.08:842][443]LogFbx: SortedLinks :(29) LeftHandPinky3
+[2021.08.06-01.02.08:842][443]LogFbx: SortedLinks :(30) LeftHandPinky4
+[2021.08.06-01.02.08:842][443]LogFbx: SortedLinks :(31) RightShoulder
+[2021.08.06-01.02.08:842][443]LogFbx: SortedLinks :(32) RightArm
+[2021.08.06-01.02.08:842][443]LogFbx: SortedLinks :(33) RightForeArm
+[2021.08.06-01.02.08:842][443]LogFbx: SortedLinks :(34) RightHand
+[2021.08.06-01.02.08:842][443]LogFbx: SortedLinks :(35) RightHandThumb1
+[2021.08.06-01.02.08:842][443]LogFbx: SortedLinks :(36) RightHandThumb2
+[2021.08.06-01.02.08:842][443]LogFbx: SortedLinks :(37) RightHandThumb3
+[2021.08.06-01.02.08:842][443]LogFbx: SortedLinks :(38) RightHandThumb4
+[2021.08.06-01.02.08:842][443]LogFbx: SortedLinks :(39) RightHandIndex1
+[2021.08.06-01.02.08:842][443]LogFbx: SortedLinks :(40) RightHandIndex2
+[2021.08.06-01.02.08:842][443]LogFbx: SortedLinks :(41) RightHandIndex3
+[2021.08.06-01.02.08:842][443]LogFbx: SortedLinks :(42) RightHandIndex4
+[2021.08.06-01.02.08:842][443]LogFbx: SortedLinks :(43) RightHandMiddle1
+[2021.08.06-01.02.08:842][443]LogFbx: SortedLinks :(44) RightHandMiddle2
+[2021.08.06-01.02.08:842][443]LogFbx: SortedLinks :(45) RightHandMiddle3
+[2021.08.06-01.02.08:842][443]LogFbx: SortedLinks :(46) RightHandMiddle4
+[2021.08.06-01.02.08:842][443]LogFbx: SortedLinks :(47) RightHandRing1
+[2021.08.06-01.02.08:842][443]LogFbx: SortedLinks :(48) RightHandRing2
+[2021.08.06-01.02.08:842][443]LogFbx: SortedLinks :(49) RightHandRing3
+[2021.08.06-01.02.08:842][443]LogFbx: SortedLinks :(50) RightHandRing4
+[2021.08.06-01.02.08:842][443]LogFbx: SortedLinks :(51) RightHandPinky1
+[2021.08.06-01.02.08:842][443]LogFbx: SortedLinks :(52) RightHandPinky2
+[2021.08.06-01.02.08:842][443]LogFbx: SortedLinks :(53) RightHandPinky3
+[2021.08.06-01.02.08:842][443]LogFbx: SortedLinks :(54) RightHandPinky4
+[2021.08.06-01.02.08:842][443]LogFbx: SortedLinks :(55) LeftUpLeg
+[2021.08.06-01.02.08:842][443]LogFbx: SortedLinks :(56) LeftLeg
+[2021.08.06-01.02.08:842][443]LogFbx: SortedLinks :(57) LeftFoot
+[2021.08.06-01.02.08:842][443]LogFbx: SortedLinks :(58) LeftToeBase
+[2021.08.06-01.02.08:842][443]LogFbx: SortedLinks :(59) LeftToe_End
+[2021.08.06-01.02.08:842][443]LogFbx: SortedLinks :(60) RightUpLeg
+[2021.08.06-01.02.08:842][443]LogFbx: SortedLinks :(61) RightLeg
+[2021.08.06-01.02.08:842][443]LogFbx: SortedLinks :(62) RightFoot
+[2021.08.06-01.02.08:866][443]LogFbx: SortedLinks :(63) RightToeBase
+[2021.08.06-01.02.08:867][443]LogFbx: SortedLinks :(64) RightToe_End
+[2021.08.06-01.02.08:898][443]LogFbx: Parsing AnimStack mixamo.com
+[2021.08.06-01.02.12:222][443]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/玩家/Walk_Backward_.Walk_Backward_
+[2021.08.06-01.02.13:394][443]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/玩家/Walk_Backward_.Walk_Backward_
+[2021.08.06-01.02.13:415][443]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 C:\Users\user\Desktop\UI\Walk Left.fbx)
+[2021.08.06-01.02.13:464][443]LogFbx: Loading FBX Scene from C:\Users\user\Desktop\UI\Walk Left.fbx
+[2021.08.06-01.02.13:613][443]LogFbx: FBX Scene Loaded Succesfully
+[2021.08.06-01.02.13:615][443]LogFbx: SortedLinks :(0) Hips
+[2021.08.06-01.02.13:615][443]LogFbx: SortedLinks :(1) Spine
+[2021.08.06-01.02.13:615][443]LogFbx: SortedLinks :(2) Spine1
+[2021.08.06-01.02.13:615][443]LogFbx: SortedLinks :(3) Spine2
+[2021.08.06-01.02.13:615][443]LogFbx: SortedLinks :(4) Neck
+[2021.08.06-01.02.13:615][443]LogFbx: SortedLinks :(5) Head
+[2021.08.06-01.02.13:615][443]LogFbx: SortedLinks :(6) HeadTop_End
+[2021.08.06-01.02.13:617][443]LogFbx: SortedLinks :(7) LeftShoulder
+[2021.08.06-01.02.13:617][443]LogFbx: SortedLinks :(8) LeftArm
+[2021.08.06-01.02.13:617][443]LogFbx: SortedLinks :(9) LeftForeArm
+[2021.08.06-01.02.13:617][443]LogFbx: SortedLinks :(10) LeftHand
+[2021.08.06-01.02.13:617][443]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2021.08.06-01.02.13:617][443]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2021.08.06-01.02.13:617][443]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2021.08.06-01.02.13:617][443]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2021.08.06-01.02.13:617][443]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2021.08.06-01.02.13:617][443]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2021.08.06-01.02.13:617][443]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2021.08.06-01.02.13:617][443]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2021.08.06-01.02.13:617][443]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2021.08.06-01.02.13:617][443]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2021.08.06-01.02.13:617][443]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2021.08.06-01.02.13:617][443]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2021.08.06-01.02.13:617][443]LogFbx: SortedLinks :(23) LeftHandRing1
+[2021.08.06-01.02.13:617][443]LogFbx: SortedLinks :(24) LeftHandRing2
+[2021.08.06-01.02.13:617][443]LogFbx: SortedLinks :(25) LeftHandRing3
+[2021.08.06-01.02.13:617][443]LogFbx: SortedLinks :(26) LeftHandRing4
+[2021.08.06-01.02.13:617][443]LogFbx: SortedLinks :(27) LeftHandPinky1
+[2021.08.06-01.02.13:617][443]LogFbx: SortedLinks :(28) LeftHandPinky2
+[2021.08.06-01.02.13:617][443]LogFbx: SortedLinks :(29) LeftHandPinky3
+[2021.08.06-01.02.13:617][443]LogFbx: SortedLinks :(30) LeftHandPinky4
+[2021.08.06-01.02.13:617][443]LogFbx: SortedLinks :(31) RightShoulder
+[2021.08.06-01.02.13:617][443]LogFbx: SortedLinks :(32) RightArm
+[2021.08.06-01.02.13:617][443]LogFbx: SortedLinks :(33) RightForeArm
+[2021.08.06-01.02.13:617][443]LogFbx: SortedLinks :(34) RightHand
+[2021.08.06-01.02.13:617][443]LogFbx: SortedLinks :(35) RightHandThumb1
+[2021.08.06-01.02.13:617][443]LogFbx: SortedLinks :(36) RightHandThumb2
+[2021.08.06-01.02.13:617][443]LogFbx: SortedLinks :(37) RightHandThumb3
+[2021.08.06-01.02.13:617][443]LogFbx: SortedLinks :(38) RightHandThumb4
+[2021.08.06-01.02.13:617][443]LogFbx: SortedLinks :(39) RightHandIndex1
+[2021.08.06-01.02.13:617][443]LogFbx: SortedLinks :(40) RightHandIndex2
+[2021.08.06-01.02.13:617][443]LogFbx: SortedLinks :(41) RightHandIndex3
+[2021.08.06-01.02.13:617][443]LogFbx: SortedLinks :(42) RightHandIndex4
+[2021.08.06-01.02.13:617][443]LogFbx: SortedLinks :(43) RightHandMiddle1
+[2021.08.06-01.02.13:617][443]LogFbx: SortedLinks :(44) RightHandMiddle2
+[2021.08.06-01.02.13:617][443]LogFbx: SortedLinks :(45) RightHandMiddle3
+[2021.08.06-01.02.13:617][443]LogFbx: SortedLinks :(46) RightHandMiddle4
+[2021.08.06-01.02.13:617][443]LogFbx: SortedLinks :(47) RightHandRing1
+[2021.08.06-01.02.13:617][443]LogFbx: SortedLinks :(48) RightHandRing2
+[2021.08.06-01.02.13:617][443]LogFbx: SortedLinks :(49) RightHandRing3
+[2021.08.06-01.02.13:617][443]LogFbx: SortedLinks :(50) RightHandRing4
+[2021.08.06-01.02.13:617][443]LogFbx: SortedLinks :(51) RightHandPinky1
+[2021.08.06-01.02.13:617][443]LogFbx: SortedLinks :(52) RightHandPinky2
+[2021.08.06-01.02.13:617][443]LogFbx: SortedLinks :(53) RightHandPinky3
+[2021.08.06-01.02.13:617][443]LogFbx: SortedLinks :(54) RightHandPinky4
+[2021.08.06-01.02.13:617][443]LogFbx: SortedLinks :(55) LeftUpLeg
+[2021.08.06-01.02.13:617][443]LogFbx: SortedLinks :(56) LeftLeg
+[2021.08.06-01.02.13:617][443]LogFbx: SortedLinks :(57) LeftFoot
+[2021.08.06-01.02.13:617][443]LogFbx: SortedLinks :(58) LeftToeBase
+[2021.08.06-01.02.13:617][443]LogFbx: SortedLinks :(59) LeftToe_End
+[2021.08.06-01.02.13:617][443]LogFbx: SortedLinks :(60) RightUpLeg
+[2021.08.06-01.02.13:617][443]LogFbx: SortedLinks :(61) RightLeg
+[2021.08.06-01.02.13:617][443]LogFbx: SortedLinks :(62) RightFoot
+[2021.08.06-01.02.13:617][443]LogFbx: SortedLinks :(63) RightToeBase
+[2021.08.06-01.02.13:617][443]LogFbx: SortedLinks :(64) RightToe_End
+[2021.08.06-01.02.13:617][443]LogFbx: Parsing AnimStack mixamo.com
+[2021.08.06-01.02.17:612][443]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/玩家/Walk_Left.Walk_Left
+[2021.08.06-01.02.17:741][443]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/玩家/Walk_Left.Walk_Left
+[2021.08.06-01.02.17:742][443]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 C:\Users\user\Desktop\UI\Walk Right.fbx)
+[2021.08.06-01.02.17:777][443]LogFbx: Loading FBX Scene from C:\Users\user\Desktop\UI\Walk Right.fbx
+[2021.08.06-01.02.17:812][443]LogFbx: FBX Scene Loaded Succesfully
+[2021.08.06-01.02.17:814][443]LogFbx: SortedLinks :(0) Hips
+[2021.08.06-01.02.17:815][443]LogFbx: SortedLinks :(1) Spine
+[2021.08.06-01.02.17:815][443]LogFbx: SortedLinks :(2) Spine1
+[2021.08.06-01.02.17:815][443]LogFbx: SortedLinks :(3) Spine2
+[2021.08.06-01.02.17:815][443]LogFbx: SortedLinks :(4) Neck
+[2021.08.06-01.02.17:815][443]LogFbx: SortedLinks :(5) Head
+[2021.08.06-01.02.17:815][443]LogFbx: SortedLinks :(6) HeadTop_End
+[2021.08.06-01.02.17:815][443]LogFbx: SortedLinks :(7) LeftShoulder
+[2021.08.06-01.02.17:815][443]LogFbx: SortedLinks :(8) LeftArm
+[2021.08.06-01.02.17:815][443]LogFbx: SortedLinks :(9) LeftForeArm
+[2021.08.06-01.02.17:815][443]LogFbx: SortedLinks :(10) LeftHand
+[2021.08.06-01.02.17:815][443]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2021.08.06-01.02.17:815][443]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2021.08.06-01.02.17:815][443]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2021.08.06-01.02.17:815][443]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2021.08.06-01.02.17:815][443]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2021.08.06-01.02.17:815][443]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2021.08.06-01.02.17:815][443]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2021.08.06-01.02.17:815][443]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2021.08.06-01.02.17:815][443]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2021.08.06-01.02.17:815][443]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2021.08.06-01.02.17:815][443]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2021.08.06-01.02.17:815][443]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2021.08.06-01.02.17:815][443]LogFbx: SortedLinks :(23) LeftHandRing1
+[2021.08.06-01.02.17:815][443]LogFbx: SortedLinks :(24) LeftHandRing2
+[2021.08.06-01.02.17:815][443]LogFbx: SortedLinks :(25) LeftHandRing3
+[2021.08.06-01.02.17:815][443]LogFbx: SortedLinks :(26) LeftHandRing4
+[2021.08.06-01.02.17:815][443]LogFbx: SortedLinks :(27) LeftHandPinky1
+[2021.08.06-01.02.17:815][443]LogFbx: SortedLinks :(28) LeftHandPinky2
+[2021.08.06-01.02.17:815][443]LogFbx: SortedLinks :(29) LeftHandPinky3
+[2021.08.06-01.02.17:815][443]LogFbx: SortedLinks :(30) LeftHandPinky4
+[2021.08.06-01.02.17:815][443]LogFbx: SortedLinks :(31) RightShoulder
+[2021.08.06-01.02.17:815][443]LogFbx: SortedLinks :(32) RightArm
+[2021.08.06-01.02.17:815][443]LogFbx: SortedLinks :(33) RightForeArm
+[2021.08.06-01.02.17:815][443]LogFbx: SortedLinks :(34) RightHand
+[2021.08.06-01.02.17:815][443]LogFbx: SortedLinks :(35) RightHandThumb1
+[2021.08.06-01.02.17:815][443]LogFbx: SortedLinks :(36) RightHandThumb2
+[2021.08.06-01.02.17:815][443]LogFbx: SortedLinks :(37) RightHandThumb3
+[2021.08.06-01.02.17:815][443]LogFbx: SortedLinks :(38) RightHandThumb4
+[2021.08.06-01.02.17:815][443]LogFbx: SortedLinks :(39) RightHandIndex1
+[2021.08.06-01.02.17:815][443]LogFbx: SortedLinks :(40) RightHandIndex2
+[2021.08.06-01.02.17:815][443]LogFbx: SortedLinks :(41) RightHandIndex3
+[2021.08.06-01.02.17:815][443]LogFbx: SortedLinks :(42) RightHandIndex4
+[2021.08.06-01.02.17:815][443]LogFbx: SortedLinks :(43) RightHandMiddle1
+[2021.08.06-01.02.17:815][443]LogFbx: SortedLinks :(44) RightHandMiddle2
+[2021.08.06-01.02.17:815][443]LogFbx: SortedLinks :(45) RightHandMiddle3
+[2021.08.06-01.02.17:815][443]LogFbx: SortedLinks :(46) RightHandMiddle4
+[2021.08.06-01.02.17:815][443]LogFbx: SortedLinks :(47) RightHandRing1
+[2021.08.06-01.02.17:815][443]LogFbx: SortedLinks :(48) RightHandRing2
+[2021.08.06-01.02.17:815][443]LogFbx: SortedLinks :(49) RightHandRing3
+[2021.08.06-01.02.17:815][443]LogFbx: SortedLinks :(50) RightHandRing4
+[2021.08.06-01.02.17:815][443]LogFbx: SortedLinks :(51) RightHandPinky1
+[2021.08.06-01.02.17:815][443]LogFbx: SortedLinks :(52) RightHandPinky2
+[2021.08.06-01.02.17:815][443]LogFbx: SortedLinks :(53) RightHandPinky3
+[2021.08.06-01.02.17:815][443]LogFbx: SortedLinks :(54) RightHandPinky4
+[2021.08.06-01.02.17:815][443]LogFbx: SortedLinks :(55) LeftUpLeg
+[2021.08.06-01.02.17:815][443]LogFbx: SortedLinks :(56) LeftLeg
+[2021.08.06-01.02.17:815][443]LogFbx: SortedLinks :(57) LeftFoot
+[2021.08.06-01.02.17:815][443]LogFbx: SortedLinks :(58) LeftToeBase
+[2021.08.06-01.02.17:816][443]LogFbx: SortedLinks :(59) LeftToe_End
+[2021.08.06-01.02.17:816][443]LogFbx: SortedLinks :(60) RightUpLeg
+[2021.08.06-01.02.17:816][443]LogFbx: SortedLinks :(61) RightLeg
+[2021.08.06-01.02.17:816][443]LogFbx: SortedLinks :(62) RightFoot
+[2021.08.06-01.02.17:816][443]LogFbx: SortedLinks :(63) RightToeBase
+[2021.08.06-01.02.17:816][443]LogFbx: SortedLinks :(64) RightToe_End
+[2021.08.06-01.02.17:816][443]LogFbx: Parsing AnimStack mixamo.com
+[2021.08.06-01.02.20:179][443]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/玩家/Walk_Right.Walk_Right
+[2021.08.06-01.02.20:315][443]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/玩家/Walk_Right.Walk_Right
+[2021.08.06-01.02.20:315][443]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 C:\Users\user\Desktop\UI\Walking.fbx)
+[2021.08.06-01.02.20:375][443]LogFbx: Loading FBX Scene from C:\Users\user\Desktop\UI\Walking.fbx
+[2021.08.06-01.02.20:409][443]LogFbx: FBX Scene Loaded Succesfully
+[2021.08.06-01.02.20:411][443]LogFbx: SortedLinks :(0) Hips
+[2021.08.06-01.02.20:411][443]LogFbx: SortedLinks :(1) Spine
+[2021.08.06-01.02.20:411][443]LogFbx: SortedLinks :(2) Spine1
+[2021.08.06-01.02.20:412][443]LogFbx: SortedLinks :(3) Spine2
+[2021.08.06-01.02.20:412][443]LogFbx: SortedLinks :(4) Neck
+[2021.08.06-01.02.20:412][443]LogFbx: SortedLinks :(5) Head
+[2021.08.06-01.02.20:412][443]LogFbx: SortedLinks :(6) HeadTop_End
+[2021.08.06-01.02.20:412][443]LogFbx: SortedLinks :(7) LeftShoulder
+[2021.08.06-01.02.20:412][443]LogFbx: SortedLinks :(8) LeftArm
+[2021.08.06-01.02.20:412][443]LogFbx: SortedLinks :(9) LeftForeArm
+[2021.08.06-01.02.20:412][443]LogFbx: SortedLinks :(10) LeftHand
+[2021.08.06-01.02.20:412][443]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2021.08.06-01.02.20:412][443]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2021.08.06-01.02.20:412][443]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2021.08.06-01.02.20:412][443]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2021.08.06-01.02.20:412][443]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2021.08.06-01.02.20:412][443]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2021.08.06-01.02.20:412][443]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2021.08.06-01.02.20:412][443]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2021.08.06-01.02.20:412][443]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2021.08.06-01.02.20:412][443]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2021.08.06-01.02.20:412][443]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2021.08.06-01.02.20:412][443]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2021.08.06-01.02.20:412][443]LogFbx: SortedLinks :(23) LeftHandRing1
+[2021.08.06-01.02.20:412][443]LogFbx: SortedLinks :(24) LeftHandRing2
+[2021.08.06-01.02.20:462][443]LogFbx: SortedLinks :(25) LeftHandRing3
+[2021.08.06-01.02.20:462][443]LogFbx: SortedLinks :(26) LeftHandRing4
+[2021.08.06-01.02.20:462][443]LogFbx: SortedLinks :(27) LeftHandPinky1
+[2021.08.06-01.02.20:462][443]LogFbx: SortedLinks :(28) LeftHandPinky2
+[2021.08.06-01.02.20:462][443]LogFbx: SortedLinks :(29) LeftHandPinky3
+[2021.08.06-01.02.20:462][443]LogFbx: SortedLinks :(30) LeftHandPinky4
+[2021.08.06-01.02.20:462][443]LogFbx: SortedLinks :(31) RightShoulder
+[2021.08.06-01.02.20:462][443]LogFbx: SortedLinks :(32) RightArm
+[2021.08.06-01.02.20:462][443]LogFbx: SortedLinks :(33) RightForeArm
+[2021.08.06-01.02.20:462][443]LogFbx: SortedLinks :(34) RightHand
+[2021.08.06-01.02.20:462][443]LogFbx: SortedLinks :(35) RightHandThumb1
+[2021.08.06-01.02.20:462][443]LogFbx: SortedLinks :(36) RightHandThumb2
+[2021.08.06-01.02.20:462][443]LogFbx: SortedLinks :(37) RightHandThumb3
+[2021.08.06-01.02.20:462][443]LogFbx: SortedLinks :(38) RightHandThumb4
+[2021.08.06-01.02.20:462][443]LogFbx: SortedLinks :(39) RightHandIndex1
+[2021.08.06-01.02.20:462][443]LogFbx: SortedLinks :(40) RightHandIndex2
+[2021.08.06-01.02.20:462][443]LogFbx: SortedLinks :(41) RightHandIndex3
+[2021.08.06-01.02.20:462][443]LogFbx: SortedLinks :(42) RightHandIndex4
+[2021.08.06-01.02.20:462][443]LogFbx: SortedLinks :(43) RightHandMiddle1
+[2021.08.06-01.02.20:462][443]LogFbx: SortedLinks :(44) RightHandMiddle2
+[2021.08.06-01.02.20:462][443]LogFbx: SortedLinks :(45) RightHandMiddle3
+[2021.08.06-01.02.20:462][443]LogFbx: SortedLinks :(46) RightHandMiddle4
+[2021.08.06-01.02.20:462][443]LogFbx: SortedLinks :(47) RightHandRing1
+[2021.08.06-01.02.20:462][443]LogFbx: SortedLinks :(48) RightHandRing2
+[2021.08.06-01.02.20:462][443]LogFbx: SortedLinks :(49) RightHandRing3
+[2021.08.06-01.02.20:462][443]LogFbx: SortedLinks :(50) RightHandRing4
+[2021.08.06-01.02.20:462][443]LogFbx: SortedLinks :(51) RightHandPinky1
+[2021.08.06-01.02.20:462][443]LogFbx: SortedLinks :(52) RightHandPinky2
+[2021.08.06-01.02.20:462][443]LogFbx: SortedLinks :(53) RightHandPinky3
+[2021.08.06-01.02.20:462][443]LogFbx: SortedLinks :(54) RightHandPinky4
+[2021.08.06-01.02.20:462][443]LogFbx: SortedLinks :(55) LeftUpLeg
+[2021.08.06-01.02.20:462][443]LogFbx: SortedLinks :(56) LeftLeg
+[2021.08.06-01.02.20:462][443]LogFbx: SortedLinks :(57) LeftFoot
+[2021.08.06-01.02.20:462][443]LogFbx: SortedLinks :(58) LeftToeBase
+[2021.08.06-01.02.20:462][443]LogFbx: SortedLinks :(59) LeftToe_End
+[2021.08.06-01.02.20:462][443]LogFbx: SortedLinks :(60) RightUpLeg
+[2021.08.06-01.02.20:462][443]LogFbx: SortedLinks :(61) RightLeg
+[2021.08.06-01.02.20:462][443]LogFbx: SortedLinks :(62) RightFoot
+[2021.08.06-01.02.20:462][443]LogFbx: SortedLinks :(63) RightToeBase
+[2021.08.06-01.02.20:462][443]LogFbx: SortedLinks :(64) RightToe_End
+[2021.08.06-01.02.20:463][443]LogFbx: Parsing AnimStack mixamo.com
+[2021.08.06-01.02.20:878][443]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 C:\Users\user\Desktop\UI\Idle.fbx)
+[2021.08.06-01.02.20:890][443]LogFbx: Loading FBX Scene from C:\Users\user\Desktop\UI\Idle.fbx
+[2021.08.06-01.02.20:927][443]LogFbx: FBX Scene Loaded Succesfully
+[2021.08.06-01.02.20:929][443]LogFbx: SortedLinks :(0) Hips
+[2021.08.06-01.02.20:929][443]LogFbx: SortedLinks :(1) Spine
+[2021.08.06-01.02.20:929][443]LogFbx: SortedLinks :(2) Spine1
+[2021.08.06-01.02.20:929][443]LogFbx: SortedLinks :(3) Spine2
+[2021.08.06-01.02.20:929][443]LogFbx: SortedLinks :(4) Neck
+[2021.08.06-01.02.20:929][443]LogFbx: SortedLinks :(5) Head
+[2021.08.06-01.02.20:929][443]LogFbx: SortedLinks :(6) HeadTop_End
+[2021.08.06-01.02.20:929][443]LogFbx: SortedLinks :(7) LeftShoulder
+[2021.08.06-01.02.20:929][443]LogFbx: SortedLinks :(8) LeftArm
+[2021.08.06-01.02.20:929][443]LogFbx: SortedLinks :(9) LeftForeArm
+[2021.08.06-01.02.20:929][443]LogFbx: SortedLinks :(10) LeftHand
+[2021.08.06-01.02.20:929][443]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2021.08.06-01.02.20:929][443]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2021.08.06-01.02.20:929][443]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2021.08.06-01.02.20:929][443]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2021.08.06-01.02.20:929][443]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2021.08.06-01.02.20:929][443]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2021.08.06-01.02.20:929][443]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2021.08.06-01.02.20:929][443]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2021.08.06-01.02.20:929][443]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2021.08.06-01.02.20:929][443]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2021.08.06-01.02.20:930][443]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2021.08.06-01.02.20:930][443]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2021.08.06-01.02.20:930][443]LogFbx: SortedLinks :(23) LeftHandRing1
+[2021.08.06-01.02.20:930][443]LogFbx: SortedLinks :(24) LeftHandRing2
+[2021.08.06-01.02.20:930][443]LogFbx: SortedLinks :(25) LeftHandRing3
+[2021.08.06-01.02.20:930][443]LogFbx: SortedLinks :(26) LeftHandRing4
+[2021.08.06-01.02.20:930][443]LogFbx: SortedLinks :(27) LeftHandPinky1
+[2021.08.06-01.02.20:930][443]LogFbx: SortedLinks :(28) LeftHandPinky2
+[2021.08.06-01.02.20:930][443]LogFbx: SortedLinks :(29) LeftHandPinky3
+[2021.08.06-01.02.20:930][443]LogFbx: SortedLinks :(30) LeftHandPinky4
+[2021.08.06-01.02.20:930][443]LogFbx: SortedLinks :(31) RightShoulder
+[2021.08.06-01.02.20:930][443]LogFbx: SortedLinks :(32) RightArm
+[2021.08.06-01.02.20:930][443]LogFbx: SortedLinks :(33) RightForeArm
+[2021.08.06-01.02.20:930][443]LogFbx: SortedLinks :(34) RightHand
+[2021.08.06-01.02.20:930][443]LogFbx: SortedLinks :(35) RightHandThumb1
+[2021.08.06-01.02.20:930][443]LogFbx: SortedLinks :(36) RightHandThumb2
+[2021.08.06-01.02.20:930][443]LogFbx: SortedLinks :(37) RightHandThumb3
+[2021.08.06-01.02.20:930][443]LogFbx: SortedLinks :(38) RightHandThumb4
+[2021.08.06-01.02.20:930][443]LogFbx: SortedLinks :(39) RightHandIndex1
+[2021.08.06-01.02.20:930][443]LogFbx: SortedLinks :(40) RightHandIndex2
+[2021.08.06-01.02.20:930][443]LogFbx: SortedLinks :(41) RightHandIndex3
+[2021.08.06-01.02.20:930][443]LogFbx: SortedLinks :(42) RightHandIndex4
+[2021.08.06-01.02.20:930][443]LogFbx: SortedLinks :(43) RightHandMiddle1
+[2021.08.06-01.02.20:930][443]LogFbx: SortedLinks :(44) RightHandMiddle2
+[2021.08.06-01.02.20:930][443]LogFbx: SortedLinks :(45) RightHandMiddle3
+[2021.08.06-01.02.20:930][443]LogFbx: SortedLinks :(46) RightHandMiddle4
+[2021.08.06-01.02.20:930][443]LogFbx: SortedLinks :(47) RightHandRing1
+[2021.08.06-01.02.20:930][443]LogFbx: SortedLinks :(48) RightHandRing2
+[2021.08.06-01.02.20:930][443]LogFbx: SortedLinks :(49) RightHandRing3
+[2021.08.06-01.02.20:930][443]LogFbx: SortedLinks :(50) RightHandRing4
+[2021.08.06-01.02.20:930][443]LogFbx: SortedLinks :(51) RightHandPinky1
+[2021.08.06-01.02.20:930][443]LogFbx: SortedLinks :(52) RightHandPinky2
+[2021.08.06-01.02.20:930][443]LogFbx: SortedLinks :(53) RightHandPinky3
+[2021.08.06-01.02.20:930][443]LogFbx: SortedLinks :(54) RightHandPinky4
+[2021.08.06-01.02.20:930][443]LogFbx: SortedLinks :(55) LeftUpLeg
+[2021.08.06-01.02.20:930][443]LogFbx: SortedLinks :(56) LeftLeg
+[2021.08.06-01.02.20:930][443]LogFbx: SortedLinks :(57) LeftFoot
+[2021.08.06-01.02.20:930][443]LogFbx: SortedLinks :(58) LeftToeBase
+[2021.08.06-01.02.20:930][443]LogFbx: SortedLinks :(59) LeftToe_End
+[2021.08.06-01.02.20:930][443]LogFbx: SortedLinks :(60) RightUpLeg
+[2021.08.06-01.02.20:930][443]LogFbx: SortedLinks :(61) RightLeg
+[2021.08.06-01.02.20:930][443]LogFbx: SortedLinks :(62) RightFoot
+[2021.08.06-01.02.20:930][443]LogFbx: SortedLinks :(63) RightToeBase
+[2021.08.06-01.02.20:930][443]LogFbx: SortedLinks :(64) RightToe_End
+[2021.08.06-01.02.20:931][443]LogFbx: Parsing AnimStack mixamo.com
+[2021.08.06-01.02.21:270][443]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 C:\Users\user\Desktop\UI\Run Backward.fbx)
+[2021.08.06-01.02.21:281][443]LogFbx: Loading FBX Scene from C:\Users\user\Desktop\UI\Run Backward.fbx
+[2021.08.06-01.02.21:308][443]LogFbx: FBX Scene Loaded Succesfully
+[2021.08.06-01.02.21:310][443]LogFbx: SortedLinks :(0) Hips
+[2021.08.06-01.02.21:310][443]LogFbx: SortedLinks :(1) Spine
+[2021.08.06-01.02.21:310][443]LogFbx: SortedLinks :(2) Spine1
+[2021.08.06-01.02.21:310][443]LogFbx: SortedLinks :(3) Spine2
+[2021.08.06-01.02.21:310][443]LogFbx: SortedLinks :(4) Neck
+[2021.08.06-01.02.21:310][443]LogFbx: SortedLinks :(5) Head
+[2021.08.06-01.02.21:310][443]LogFbx: SortedLinks :(6) HeadTop_End
+[2021.08.06-01.02.21:310][443]LogFbx: SortedLinks :(7) LeftShoulder
+[2021.08.06-01.02.21:310][443]LogFbx: SortedLinks :(8) LeftArm
+[2021.08.06-01.02.21:310][443]LogFbx: SortedLinks :(9) LeftForeArm
+[2021.08.06-01.02.21:310][443]LogFbx: SortedLinks :(10) LeftHand
+[2021.08.06-01.02.21:310][443]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2021.08.06-01.02.21:310][443]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2021.08.06-01.02.21:310][443]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2021.08.06-01.02.21:310][443]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2021.08.06-01.02.21:310][443]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2021.08.06-01.02.21:310][443]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2021.08.06-01.02.21:310][443]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2021.08.06-01.02.21:310][443]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2021.08.06-01.02.21:310][443]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2021.08.06-01.02.21:310][443]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2021.08.06-01.02.21:310][443]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2021.08.06-01.02.21:310][443]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2021.08.06-01.02.21:310][443]LogFbx: SortedLinks :(23) LeftHandRing1
+[2021.08.06-01.02.21:310][443]LogFbx: SortedLinks :(24) LeftHandRing2
+[2021.08.06-01.02.21:310][443]LogFbx: SortedLinks :(25) LeftHandRing3
+[2021.08.06-01.02.21:310][443]LogFbx: SortedLinks :(26) LeftHandRing4
+[2021.08.06-01.02.21:310][443]LogFbx: SortedLinks :(27) LeftHandPinky1
+[2021.08.06-01.02.21:310][443]LogFbx: SortedLinks :(28) LeftHandPinky2
+[2021.08.06-01.02.21:310][443]LogFbx: SortedLinks :(29) LeftHandPinky3
+[2021.08.06-01.02.21:310][443]LogFbx: SortedLinks :(30) LeftHandPinky4
+[2021.08.06-01.02.21:310][443]LogFbx: SortedLinks :(31) RightShoulder
+[2021.08.06-01.02.21:310][443]LogFbx: SortedLinks :(32) RightArm
+[2021.08.06-01.02.21:310][443]LogFbx: SortedLinks :(33) RightForeArm
+[2021.08.06-01.02.21:310][443]LogFbx: SortedLinks :(34) RightHand
+[2021.08.06-01.02.21:310][443]LogFbx: SortedLinks :(35) RightHandThumb1
+[2021.08.06-01.02.21:310][443]LogFbx: SortedLinks :(36) RightHandThumb2
+[2021.08.06-01.02.21:310][443]LogFbx: SortedLinks :(37) RightHandThumb3
+[2021.08.06-01.02.21:310][443]LogFbx: SortedLinks :(38) RightHandThumb4
+[2021.08.06-01.02.21:310][443]LogFbx: SortedLinks :(39) RightHandIndex1
+[2021.08.06-01.02.21:310][443]LogFbx: SortedLinks :(40) RightHandIndex2
+[2021.08.06-01.02.21:310][443]LogFbx: SortedLinks :(41) RightHandIndex3
+[2021.08.06-01.02.21:310][443]LogFbx: SortedLinks :(42) RightHandIndex4
+[2021.08.06-01.02.21:310][443]LogFbx: SortedLinks :(43) RightHandMiddle1
+[2021.08.06-01.02.21:310][443]LogFbx: SortedLinks :(44) RightHandMiddle2
+[2021.08.06-01.02.21:310][443]LogFbx: SortedLinks :(45) RightHandMiddle3
+[2021.08.06-01.02.21:310][443]LogFbx: SortedLinks :(46) RightHandMiddle4
+[2021.08.06-01.02.21:310][443]LogFbx: SortedLinks :(47) RightHandRing1
+[2021.08.06-01.02.21:310][443]LogFbx: SortedLinks :(48) RightHandRing2
+[2021.08.06-01.02.21:310][443]LogFbx: SortedLinks :(49) RightHandRing3
+[2021.08.06-01.02.21:310][443]LogFbx: SortedLinks :(50) RightHandRing4
+[2021.08.06-01.02.21:310][443]LogFbx: SortedLinks :(51) RightHandPinky1
+[2021.08.06-01.02.21:310][443]LogFbx: SortedLinks :(52) RightHandPinky2
+[2021.08.06-01.02.21:310][443]LogFbx: SortedLinks :(53) RightHandPinky3
+[2021.08.06-01.02.21:310][443]LogFbx: SortedLinks :(54) RightHandPinky4
+[2021.08.06-01.02.21:310][443]LogFbx: SortedLinks :(55) LeftUpLeg
+[2021.08.06-01.02.21:310][443]LogFbx: SortedLinks :(56) LeftLeg
+[2021.08.06-01.02.21:310][443]LogFbx: SortedLinks :(57) LeftFoot
+[2021.08.06-01.02.21:310][443]LogFbx: SortedLinks :(58) LeftToeBase
+[2021.08.06-01.02.21:310][443]LogFbx: SortedLinks :(59) LeftToe_End
+[2021.08.06-01.02.21:310][443]LogFbx: SortedLinks :(60) RightUpLeg
+[2021.08.06-01.02.21:310][443]LogFbx: SortedLinks :(61) RightLeg
+[2021.08.06-01.02.21:310][443]LogFbx: SortedLinks :(62) RightFoot
+[2021.08.06-01.02.21:311][443]LogFbx: SortedLinks :(63) RightToeBase
+[2021.08.06-01.02.21:311][443]LogFbx: SortedLinks :(64) RightToe_End
+[2021.08.06-01.02.21:311][443]LogFbx: Parsing AnimStack mixamo.com
+[2021.08.06-01.02.22:835][443]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/玩家/Idle.Idle
+[2021.08.06-01.02.22:835][443]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/玩家/Walking.Walking
+[2021.08.06-01.02.22:835][443]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/玩家/Run_Backward.Run_Backward
+[2021.08.06-01.02.22:882][443]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 C:\Users\user\Desktop\UI\Run Forward.fbx)
+[2021.08.06-01.02.22:951][443]LogFbx: Loading FBX Scene from C:\Users\user\Desktop\UI\Run Forward.fbx
+[2021.08.06-01.02.23:191][443]LogFbx: FBX Scene Loaded Succesfully
+[2021.08.06-01.02.23:193][443]LogFbx: SortedLinks :(0) Hips
+[2021.08.06-01.02.23:193][443]LogFbx: SortedLinks :(1) Spine
+[2021.08.06-01.02.23:193][443]LogFbx: SortedLinks :(2) Spine1
+[2021.08.06-01.02.23:193][443]LogFbx: SortedLinks :(3) Spine2
+[2021.08.06-01.02.23:193][443]LogFbx: SortedLinks :(4) Neck
+[2021.08.06-01.02.23:193][443]LogFbx: SortedLinks :(5) Head
+[2021.08.06-01.02.23:193][443]LogFbx: SortedLinks :(6) HeadTop_End
+[2021.08.06-01.02.23:193][443]LogFbx: SortedLinks :(7) LeftShoulder
+[2021.08.06-01.02.23:193][443]LogFbx: SortedLinks :(8) LeftArm
+[2021.08.06-01.02.23:193][443]LogFbx: SortedLinks :(9) LeftForeArm
+[2021.08.06-01.02.23:193][443]LogFbx: SortedLinks :(10) LeftHand
+[2021.08.06-01.02.23:193][443]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2021.08.06-01.02.23:193][443]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2021.08.06-01.02.23:193][443]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2021.08.06-01.02.23:193][443]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2021.08.06-01.02.23:193][443]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2021.08.06-01.02.23:193][443]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2021.08.06-01.02.23:193][443]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2021.08.06-01.02.23:193][443]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2021.08.06-01.02.23:193][443]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2021.08.06-01.02.23:193][443]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2021.08.06-01.02.23:193][443]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2021.08.06-01.02.23:193][443]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2021.08.06-01.02.23:193][443]LogFbx: SortedLinks :(23) LeftHandRing1
+[2021.08.06-01.02.23:193][443]LogFbx: SortedLinks :(24) LeftHandRing2
+[2021.08.06-01.02.23:193][443]LogFbx: SortedLinks :(25) LeftHandRing3
+[2021.08.06-01.02.23:194][443]LogFbx: SortedLinks :(26) LeftHandRing4
+[2021.08.06-01.02.23:194][443]LogFbx: SortedLinks :(27) LeftHandPinky1
+[2021.08.06-01.02.23:194][443]LogFbx: SortedLinks :(28) LeftHandPinky2
+[2021.08.06-01.02.23:194][443]LogFbx: SortedLinks :(29) LeftHandPinky3
+[2021.08.06-01.02.23:194][443]LogFbx: SortedLinks :(30) LeftHandPinky4
+[2021.08.06-01.02.23:194][443]LogFbx: SortedLinks :(31) RightShoulder
+[2021.08.06-01.02.23:194][443]LogFbx: SortedLinks :(32) RightArm
+[2021.08.06-01.02.23:194][443]LogFbx: SortedLinks :(33) RightForeArm
+[2021.08.06-01.02.23:194][443]LogFbx: SortedLinks :(34) RightHand
+[2021.08.06-01.02.23:194][443]LogFbx: SortedLinks :(35) RightHandThumb1
+[2021.08.06-01.02.23:194][443]LogFbx: SortedLinks :(36) RightHandThumb2
+[2021.08.06-01.02.23:194][443]LogFbx: SortedLinks :(37) RightHandThumb3
+[2021.08.06-01.02.23:194][443]LogFbx: SortedLinks :(38) RightHandThumb4
+[2021.08.06-01.02.23:194][443]LogFbx: SortedLinks :(39) RightHandIndex1
+[2021.08.06-01.02.23:194][443]LogFbx: SortedLinks :(40) RightHandIndex2
+[2021.08.06-01.02.23:194][443]LogFbx: SortedLinks :(41) RightHandIndex3
+[2021.08.06-01.02.23:194][443]LogFbx: SortedLinks :(42) RightHandIndex4
+[2021.08.06-01.02.23:194][443]LogFbx: SortedLinks :(43) RightHandMiddle1
+[2021.08.06-01.02.23:194][443]LogFbx: SortedLinks :(44) RightHandMiddle2
+[2021.08.06-01.02.23:194][443]LogFbx: SortedLinks :(45) RightHandMiddle3
+[2021.08.06-01.02.23:194][443]LogFbx: SortedLinks :(46) RightHandMiddle4
+[2021.08.06-01.02.23:194][443]LogFbx: SortedLinks :(47) RightHandRing1
+[2021.08.06-01.02.23:194][443]LogFbx: SortedLinks :(48) RightHandRing2
+[2021.08.06-01.02.23:194][443]LogFbx: SortedLinks :(49) RightHandRing3
+[2021.08.06-01.02.23:194][443]LogFbx: SortedLinks :(50) RightHandRing4
+[2021.08.06-01.02.23:194][443]LogFbx: SortedLinks :(51) RightHandPinky1
+[2021.08.06-01.02.23:194][443]LogFbx: SortedLinks :(52) RightHandPinky2
+[2021.08.06-01.02.23:194][443]LogFbx: SortedLinks :(53) RightHandPinky3
+[2021.08.06-01.02.23:194][443]LogFbx: SortedLinks :(54) RightHandPinky4
+[2021.08.06-01.02.23:194][443]LogFbx: SortedLinks :(55) LeftUpLeg
+[2021.08.06-01.02.23:194][443]LogFbx: SortedLinks :(56) LeftLeg
+[2021.08.06-01.02.23:194][443]LogFbx: SortedLinks :(57) LeftFoot
+[2021.08.06-01.02.23:194][443]LogFbx: SortedLinks :(58) LeftToeBase
+[2021.08.06-01.02.23:194][443]LogFbx: SortedLinks :(59) LeftToe_End
+[2021.08.06-01.02.23:195][443]LogFbx: SortedLinks :(60) RightUpLeg
+[2021.08.06-01.02.23:195][443]LogFbx: SortedLinks :(61) RightLeg
+[2021.08.06-01.02.23:195][443]LogFbx: SortedLinks :(62) RightFoot
+[2021.08.06-01.02.23:195][443]LogFbx: SortedLinks :(63) RightToeBase
+[2021.08.06-01.02.23:195][443]LogFbx: SortedLinks :(64) RightToe_End
+[2021.08.06-01.02.23:196][443]LogFbx: Parsing AnimStack mixamo.com
+[2021.08.06-01.02.23:932][443]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 C:\Users\user\Desktop\UI\Run Left.fbx)
+[2021.08.06-01.02.23:964][443]LogFbx: Loading FBX Scene from C:\Users\user\Desktop\UI\Run Left.fbx
+[2021.08.06-01.02.24:065][443]LogFbx: FBX Scene Loaded Succesfully
+[2021.08.06-01.02.24:129][443]LogFbx: SortedLinks :(0) Hips
+[2021.08.06-01.02.24:129][443]LogFbx: SortedLinks :(1) Spine
+[2021.08.06-01.02.24:129][443]LogFbx: SortedLinks :(2) Spine1
+[2021.08.06-01.02.24:129][443]LogFbx: SortedLinks :(3) Spine2
+[2021.08.06-01.02.24:129][443]LogFbx: SortedLinks :(4) Neck
+[2021.08.06-01.02.24:129][443]LogFbx: SortedLinks :(5) Head
+[2021.08.06-01.02.24:129][443]LogFbx: SortedLinks :(6) HeadTop_End
+[2021.08.06-01.02.24:129][443]LogFbx: SortedLinks :(7) LeftShoulder
+[2021.08.06-01.02.24:129][443]LogFbx: SortedLinks :(8) LeftArm
+[2021.08.06-01.02.24:129][443]LogFbx: SortedLinks :(9) LeftForeArm
+[2021.08.06-01.02.24:129][443]LogFbx: SortedLinks :(10) LeftHand
+[2021.08.06-01.02.24:130][443]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2021.08.06-01.02.24:130][443]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2021.08.06-01.02.24:130][443]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2021.08.06-01.02.24:130][443]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2021.08.06-01.02.24:130][443]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2021.08.06-01.02.24:130][443]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2021.08.06-01.02.24:130][443]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2021.08.06-01.02.24:130][443]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2021.08.06-01.02.24:130][443]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2021.08.06-01.02.24:130][443]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2021.08.06-01.02.24:130][443]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2021.08.06-01.02.24:130][443]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2021.08.06-01.02.24:130][443]LogFbx: SortedLinks :(23) LeftHandRing1
+[2021.08.06-01.02.24:130][443]LogFbx: SortedLinks :(24) LeftHandRing2
+[2021.08.06-01.02.24:130][443]LogFbx: SortedLinks :(25) LeftHandRing3
+[2021.08.06-01.02.24:130][443]LogFbx: SortedLinks :(26) LeftHandRing4
+[2021.08.06-01.02.24:130][443]LogFbx: SortedLinks :(27) LeftHandPinky1
+[2021.08.06-01.02.24:130][443]LogFbx: SortedLinks :(28) LeftHandPinky2
+[2021.08.06-01.02.24:130][443]LogFbx: SortedLinks :(29) LeftHandPinky3
+[2021.08.06-01.02.24:130][443]LogFbx: SortedLinks :(30) LeftHandPinky4
+[2021.08.06-01.02.24:130][443]LogFbx: SortedLinks :(31) RightShoulder
+[2021.08.06-01.02.24:130][443]LogFbx: SortedLinks :(32) RightArm
+[2021.08.06-01.02.24:130][443]LogFbx: SortedLinks :(33) RightForeArm
+[2021.08.06-01.02.24:130][443]LogFbx: SortedLinks :(34) RightHand
+[2021.08.06-01.02.24:130][443]LogFbx: SortedLinks :(35) RightHandThumb1
+[2021.08.06-01.02.24:130][443]LogFbx: SortedLinks :(36) RightHandThumb2
+[2021.08.06-01.02.24:130][443]LogFbx: SortedLinks :(37) RightHandThumb3
+[2021.08.06-01.02.24:130][443]LogFbx: SortedLinks :(38) RightHandThumb4
+[2021.08.06-01.02.24:130][443]LogFbx: SortedLinks :(39) RightHandIndex1
+[2021.08.06-01.02.24:130][443]LogFbx: SortedLinks :(40) RightHandIndex2
+[2021.08.06-01.02.24:130][443]LogFbx: SortedLinks :(41) RightHandIndex3
+[2021.08.06-01.02.24:130][443]LogFbx: SortedLinks :(42) RightHandIndex4
+[2021.08.06-01.02.24:130][443]LogFbx: SortedLinks :(43) RightHandMiddle1
+[2021.08.06-01.02.24:130][443]LogFbx: SortedLinks :(44) RightHandMiddle2
+[2021.08.06-01.02.24:130][443]LogFbx: SortedLinks :(45) RightHandMiddle3
+[2021.08.06-01.02.24:130][443]LogFbx: SortedLinks :(46) RightHandMiddle4
+[2021.08.06-01.02.24:130][443]LogFbx: SortedLinks :(47) RightHandRing1
+[2021.08.06-01.02.24:130][443]LogFbx: SortedLinks :(48) RightHandRing2
+[2021.08.06-01.02.24:130][443]LogFbx: SortedLinks :(49) RightHandRing3
+[2021.08.06-01.02.24:130][443]LogFbx: SortedLinks :(50) RightHandRing4
+[2021.08.06-01.02.24:130][443]LogFbx: SortedLinks :(51) RightHandPinky1
+[2021.08.06-01.02.24:130][443]LogFbx: SortedLinks :(52) RightHandPinky2
+[2021.08.06-01.02.24:130][443]LogFbx: SortedLinks :(53) RightHandPinky3
+[2021.08.06-01.02.24:130][443]LogFbx: SortedLinks :(54) RightHandPinky4
+[2021.08.06-01.02.24:130][443]LogFbx: SortedLinks :(55) LeftUpLeg
+[2021.08.06-01.02.24:130][443]LogFbx: SortedLinks :(56) LeftLeg
+[2021.08.06-01.02.24:130][443]LogFbx: SortedLinks :(57) LeftFoot
+[2021.08.06-01.02.24:130][443]LogFbx: SortedLinks :(58) LeftToeBase
+[2021.08.06-01.02.24:130][443]LogFbx: SortedLinks :(59) LeftToe_End
+[2021.08.06-01.02.24:130][443]LogFbx: SortedLinks :(60) RightUpLeg
+[2021.08.06-01.02.24:130][443]LogFbx: SortedLinks :(61) RightLeg
+[2021.08.06-01.02.24:130][443]LogFbx: SortedLinks :(62) RightFoot
+[2021.08.06-01.02.24:130][443]LogFbx: SortedLinks :(63) RightToeBase
+[2021.08.06-01.02.24:130][443]LogFbx: SortedLinks :(64) RightToe_End
+[2021.08.06-01.02.24:131][443]LogFbx: Parsing AnimStack mixamo.com
+[2021.08.06-01.02.24:308][443]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 C:\Users\user\Desktop\UI\Run Right.fbx)
+[2021.08.06-01.02.24:320][443]LogFbx: Loading FBX Scene from C:\Users\user\Desktop\UI\Run Right.fbx
+[2021.08.06-01.02.24:367][443]LogFbx: FBX Scene Loaded Succesfully
+[2021.08.06-01.02.24:369][443]LogFbx: SortedLinks :(0) Hips
+[2021.08.06-01.02.24:369][443]LogFbx: SortedLinks :(1) Spine
+[2021.08.06-01.02.24:369][443]LogFbx: SortedLinks :(2) Spine1
+[2021.08.06-01.02.24:369][443]LogFbx: SortedLinks :(3) Spine2
+[2021.08.06-01.02.24:369][443]LogFbx: SortedLinks :(4) Neck
+[2021.08.06-01.02.24:369][443]LogFbx: SortedLinks :(5) Head
+[2021.08.06-01.02.24:369][443]LogFbx: SortedLinks :(6) HeadTop_End
+[2021.08.06-01.02.24:369][443]LogFbx: SortedLinks :(7) LeftShoulder
+[2021.08.06-01.02.24:369][443]LogFbx: SortedLinks :(8) LeftArm
+[2021.08.06-01.02.24:369][443]LogFbx: SortedLinks :(9) LeftForeArm
+[2021.08.06-01.02.24:369][443]LogFbx: SortedLinks :(10) LeftHand
+[2021.08.06-01.02.24:369][443]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2021.08.06-01.02.24:369][443]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2021.08.06-01.02.24:369][443]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2021.08.06-01.02.24:369][443]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2021.08.06-01.02.24:369][443]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2021.08.06-01.02.24:369][443]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2021.08.06-01.02.24:369][443]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2021.08.06-01.02.24:369][443]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2021.08.06-01.02.24:369][443]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2021.08.06-01.02.24:369][443]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2021.08.06-01.02.24:369][443]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2021.08.06-01.02.24:369][443]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2021.08.06-01.02.24:369][443]LogFbx: SortedLinks :(23) LeftHandRing1
+[2021.08.06-01.02.24:369][443]LogFbx: SortedLinks :(24) LeftHandRing2
+[2021.08.06-01.02.24:369][443]LogFbx: SortedLinks :(25) LeftHandRing3
+[2021.08.06-01.02.24:369][443]LogFbx: SortedLinks :(26) LeftHandRing4
+[2021.08.06-01.02.24:369][443]LogFbx: SortedLinks :(27) LeftHandPinky1
+[2021.08.06-01.02.24:369][443]LogFbx: SortedLinks :(28) LeftHandPinky2
+[2021.08.06-01.02.24:369][443]LogFbx: SortedLinks :(29) LeftHandPinky3
+[2021.08.06-01.02.24:369][443]LogFbx: SortedLinks :(30) LeftHandPinky4
+[2021.08.06-01.02.24:369][443]LogFbx: SortedLinks :(31) RightShoulder
+[2021.08.06-01.02.24:369][443]LogFbx: SortedLinks :(32) RightArm
+[2021.08.06-01.02.24:369][443]LogFbx: SortedLinks :(33) RightForeArm
+[2021.08.06-01.02.24:369][443]LogFbx: SortedLinks :(34) RightHand
+[2021.08.06-01.02.24:369][443]LogFbx: SortedLinks :(35) RightHandThumb1
+[2021.08.06-01.02.24:369][443]LogFbx: SortedLinks :(36) RightHandThumb2
+[2021.08.06-01.02.24:369][443]LogFbx: SortedLinks :(37) RightHandThumb3
+[2021.08.06-01.02.24:369][443]LogFbx: SortedLinks :(38) RightHandThumb4
+[2021.08.06-01.02.24:369][443]LogFbx: SortedLinks :(39) RightHandIndex1
+[2021.08.06-01.02.24:369][443]LogFbx: SortedLinks :(40) RightHandIndex2
+[2021.08.06-01.02.24:369][443]LogFbx: SortedLinks :(41) RightHandIndex3
+[2021.08.06-01.02.24:369][443]LogFbx: SortedLinks :(42) RightHandIndex4
+[2021.08.06-01.02.24:369][443]LogFbx: SortedLinks :(43) RightHandMiddle1
+[2021.08.06-01.02.24:369][443]LogFbx: SortedLinks :(44) RightHandMiddle2
+[2021.08.06-01.02.24:398][443]LogFbx: SortedLinks :(45) RightHandMiddle3
+[2021.08.06-01.02.24:398][443]LogFbx: SortedLinks :(46) RightHandMiddle4
+[2021.08.06-01.02.24:398][443]LogFbx: SortedLinks :(47) RightHandRing1
+[2021.08.06-01.02.24:398][443]LogFbx: SortedLinks :(48) RightHandRing2
+[2021.08.06-01.02.24:398][443]LogFbx: SortedLinks :(49) RightHandRing3
+[2021.08.06-01.02.24:398][443]LogFbx: SortedLinks :(50) RightHandRing4
+[2021.08.06-01.02.24:398][443]LogFbx: SortedLinks :(51) RightHandPinky1
+[2021.08.06-01.02.24:398][443]LogFbx: SortedLinks :(52) RightHandPinky2
+[2021.08.06-01.02.24:398][443]LogFbx: SortedLinks :(53) RightHandPinky3
+[2021.08.06-01.02.24:398][443]LogFbx: SortedLinks :(54) RightHandPinky4
+[2021.08.06-01.02.24:398][443]LogFbx: SortedLinks :(55) LeftUpLeg
+[2021.08.06-01.02.24:398][443]LogFbx: SortedLinks :(56) LeftLeg
+[2021.08.06-01.02.24:398][443]LogFbx: SortedLinks :(57) LeftFoot
+[2021.08.06-01.02.24:398][443]LogFbx: SortedLinks :(58) LeftToeBase
+[2021.08.06-01.02.24:398][443]LogFbx: SortedLinks :(59) LeftToe_End
+[2021.08.06-01.02.24:398][443]LogFbx: SortedLinks :(60) RightUpLeg
+[2021.08.06-01.02.24:398][443]LogFbx: SortedLinks :(61) RightLeg
+[2021.08.06-01.02.24:398][443]LogFbx: SortedLinks :(62) RightFoot
+[2021.08.06-01.02.24:398][443]LogFbx: SortedLinks :(63) RightToeBase
+[2021.08.06-01.02.24:398][443]LogFbx: SortedLinks :(64) RightToe_End
+[2021.08.06-01.02.24:399][443]LogFbx: Parsing AnimStack mixamo.com
+[2021.08.06-01.02.33:279][443]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/玩家/Run_Forward.Run_Forward
+[2021.08.06-01.02.33:279][443]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/玩家/Run_Left.Run_Left
+[2021.08.06-01.02.33:279][443]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/玩家/Run_Right.Run_Right
+[2021.08.06-01.02.33:279][443]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/玩家/Run_Backward.Run_Backward
+[2021.08.06-01.02.34:456][444]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/玩家/Run_Right.Run_Right
+[2021.08.06-01.02.55:779][611]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/玩家/Walk_Backward_.Walk_Backward_
+[2021.08.06-01.02.59:052][611]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SkeletonEditor' in 0.1391 seconds. Added 1 classes and 2 folders.
+[2021.08.06-01.03.06:292][611]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.06-01.03.06:451][611]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'PinnedCommandList' in 0.0232 seconds. Added 1 classes and 0 folders.
+[2021.08.06-01.03.23:874][611]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2021.08.06-01.03.48:576][961]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2021.08.06-01.03.48:659][961]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.06-01.03.52:232][ 84]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2021.08.06-01.03.52:232][ 84]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.06-01.03.56:497][305]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2021.08.06-01.03.56:497][305]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.06-01.03.57:828][375]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2021.08.06-01.03.57:828][375]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.06-01.03.59:437][457]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2021.08.06-01.03.59:438][457]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.06-01.04.01:133][550]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2021.08.06-01.04.01:134][550]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.06-01.04.02:697][637]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2021.08.06-01.04.02:697][637]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.06-01.04.04:984][763]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2021.08.06-01.04.04:984][763]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.06-01.04.06:591][852]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2021.08.06-01.04.06:591][852]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.06-01.04.08:314][947]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2021.08.06-01.04.08:315][947]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.06-01.04.09:371][  6]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2021.08.06-01.04.09:371][  6]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.06-01.04.13:384][235]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2021.08.06-01.04.13:385][235]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.06-01.04.19:404][555]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2021.08.06-01.04.19:405][555]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.06-01.06.01:387][293]LogUObjectHash: Compacting FUObjectHashTables data took   8.18ms
+[2021.08.06-01.06.06:647][293]LogSlate: Window 'Delete Assets' being destroyed
+[2021.08.06-01.06.06:782][293]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/玩家/Walk_Backward_.Walk_Backward_
+[2021.08.06-01.06.56:208][293]LogUObjectHash: Compacting FUObjectHashTables data took  30.63ms
+[2021.08.06-01.07.16:091][459]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\user\Desktop\UI\Walk Backward.fbx)
+[2021.08.06-01.07.16:828][459]LogFbx: Loading FBX Scene from C:\Users\user\Desktop\UI\Walk Backward.fbx
+[2021.08.06-01.07.16:855][459]LogFbx: FBX Scene Loaded Succesfully
+[2021.08.06-01.07.19:288][459]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.08.06-01.07.19:303][459]LogFbx: SortedLinks :(0) Hips
+[2021.08.06-01.07.19:303][459]LogFbx: SortedLinks :(1) Spine
+[2021.08.06-01.07.19:303][459]LogFbx: SortedLinks :(2) Spine1
+[2021.08.06-01.07.19:303][459]LogFbx: SortedLinks :(3) Spine2
+[2021.08.06-01.07.19:303][459]LogFbx: SortedLinks :(4) Neck
+[2021.08.06-01.07.19:303][459]LogFbx: SortedLinks :(5) Head
+[2021.08.06-01.07.19:303][459]LogFbx: SortedLinks :(6) HeadTop_End
+[2021.08.06-01.07.19:303][459]LogFbx: SortedLinks :(7) LeftShoulder
+[2021.08.06-01.07.19:303][459]LogFbx: SortedLinks :(8) LeftArm
+[2021.08.06-01.07.19:303][459]LogFbx: SortedLinks :(9) LeftForeArm
+[2021.08.06-01.07.19:303][459]LogFbx: SortedLinks :(10) LeftHand
+[2021.08.06-01.07.19:303][459]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2021.08.06-01.07.19:303][459]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2021.08.06-01.07.19:303][459]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2021.08.06-01.07.19:303][459]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2021.08.06-01.07.19:303][459]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2021.08.06-01.07.19:303][459]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2021.08.06-01.07.19:303][459]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2021.08.06-01.07.19:303][459]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2021.08.06-01.07.19:303][459]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2021.08.06-01.07.19:303][459]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2021.08.06-01.07.19:303][459]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2021.08.06-01.07.19:303][459]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2021.08.06-01.07.19:303][459]LogFbx: SortedLinks :(23) LeftHandRing1
+[2021.08.06-01.07.19:304][459]LogFbx: SortedLinks :(24) LeftHandRing2
+[2021.08.06-01.07.19:304][459]LogFbx: SortedLinks :(25) LeftHandRing3
+[2021.08.06-01.07.19:304][459]LogFbx: SortedLinks :(26) LeftHandRing4
+[2021.08.06-01.07.19:304][459]LogFbx: SortedLinks :(27) LeftHandPinky1
+[2021.08.06-01.07.19:304][459]LogFbx: SortedLinks :(28) LeftHandPinky2
+[2021.08.06-01.07.19:304][459]LogFbx: SortedLinks :(29) LeftHandPinky3
+[2021.08.06-01.07.19:304][459]LogFbx: SortedLinks :(30) LeftHandPinky4
+[2021.08.06-01.07.19:304][459]LogFbx: SortedLinks :(31) RightShoulder
+[2021.08.06-01.07.19:304][459]LogFbx: SortedLinks :(32) RightArm
+[2021.08.06-01.07.19:304][459]LogFbx: SortedLinks :(33) RightForeArm
+[2021.08.06-01.07.19:304][459]LogFbx: SortedLinks :(34) RightHand
+[2021.08.06-01.07.19:304][459]LogFbx: SortedLinks :(35) RightHandThumb1
+[2021.08.06-01.07.19:304][459]LogFbx: SortedLinks :(36) RightHandThumb2
+[2021.08.06-01.07.19:304][459]LogFbx: SortedLinks :(37) RightHandThumb3
+[2021.08.06-01.07.19:304][459]LogFbx: SortedLinks :(38) RightHandThumb4
+[2021.08.06-01.07.19:304][459]LogFbx: SortedLinks :(39) RightHandIndex1
+[2021.08.06-01.07.19:304][459]LogFbx: SortedLinks :(40) RightHandIndex2
+[2021.08.06-01.07.19:304][459]LogFbx: SortedLinks :(41) RightHandIndex3
+[2021.08.06-01.07.19:304][459]LogFbx: SortedLinks :(42) RightHandIndex4
+[2021.08.06-01.07.19:757][459]LogFbx: SortedLinks :(43) RightHandMiddle1
+[2021.08.06-01.07.19:757][459]LogFbx: SortedLinks :(44) RightHandMiddle2
+[2021.08.06-01.07.19:757][459]LogFbx: SortedLinks :(45) RightHandMiddle3
+[2021.08.06-01.07.19:757][459]LogFbx: SortedLinks :(46) RightHandMiddle4
+[2021.08.06-01.07.19:757][459]LogFbx: SortedLinks :(47) RightHandRing1
+[2021.08.06-01.07.19:757][459]LogFbx: SortedLinks :(48) RightHandRing2
+[2021.08.06-01.07.19:757][459]LogFbx: SortedLinks :(49) RightHandRing3
+[2021.08.06-01.07.19:757][459]LogFbx: SortedLinks :(50) RightHandRing4
+[2021.08.06-01.07.19:757][459]LogFbx: SortedLinks :(51) RightHandPinky1
+[2021.08.06-01.07.19:757][459]LogFbx: SortedLinks :(52) RightHandPinky2
+[2021.08.06-01.07.19:757][459]LogFbx: SortedLinks :(53) RightHandPinky3
+[2021.08.06-01.07.19:757][459]LogFbx: SortedLinks :(54) RightHandPinky4
+[2021.08.06-01.07.19:757][459]LogFbx: SortedLinks :(55) LeftUpLeg
+[2021.08.06-01.07.19:757][459]LogFbx: SortedLinks :(56) LeftLeg
+[2021.08.06-01.07.19:757][459]LogFbx: SortedLinks :(57) LeftFoot
+[2021.08.06-01.07.19:757][459]LogFbx: SortedLinks :(58) LeftToeBase
+[2021.08.06-01.07.19:757][459]LogFbx: SortedLinks :(59) LeftToe_End
+[2021.08.06-01.07.19:757][459]LogFbx: SortedLinks :(60) RightUpLeg
+[2021.08.06-01.07.19:757][459]LogFbx: SortedLinks :(61) RightLeg
+[2021.08.06-01.07.19:757][459]LogFbx: SortedLinks :(62) RightFoot
+[2021.08.06-01.07.19:757][459]LogFbx: SortedLinks :(63) RightToeBase
+[2021.08.06-01.07.19:757][459]LogFbx: SortedLinks :(64) RightToe_End
+[2021.08.06-01.07.19:758][459]LogFbx: Parsing AnimStack mixamo.com
+[2021.08.06-01.07.20:271][459]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/玩家/Walk_Backward.Walk_Backward
+[2021.08.06-01.07.20:277][459]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/玩家/Walk_Backward.Walk_Backward
+[2021.08.06-01.07.22:264][515]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/玩家/Walk_Backward.Walk_Backward
+[2021.08.06-01.07.22:419][515]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2021.08.06-01.07.22:419][515]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.06-01.07.25:945][651]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2021.08.06-01.07.25:945][651]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.06-01.07.27:363][727]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2021.08.06-01.07.27:363][727]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.06-01.07.28:270][766]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2021.08.06-01.07.28:270][766]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.06-01.07.33:378][ 22]LogSlate: Window 'Run_Left' being destroyed
+[2021.08.06-01.07.33:395][ 22]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2021.08.06-01.07.33:395][ 22]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.06-01.07.33:991][ 22]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2021.08.06-01.07.33:992][ 22]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.06-01.07.34:801][ 22]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2021.08.06-01.07.34:801][ 22]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.06-01.07.36:408][ 99]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2021.08.06-01.07.40:174][ 99]LogSlate: Window 'Save Content' being destroyed
+[2021.08.06-01.07.40:489][ 99]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/玩家/Ch01_1001_Diffuse" FILE="C:/Users/user/Documents/UE4/Unreal_LIN_3D_FPS/FPS_3D_20210729/Content/玩家/Ch01_1001_Diffuse.uasset" SILENT=true
+[2021.08.06-01.07.44:948][ 99]LogSavePackage: Moving 'C:/Users/user/Documents/UE4/Unreal_LIN_3D_FPS/FPS_3D_20210729/Saved/Ch01_1001_Diffuse7B30F19044ED7E9A439AF0B2C6C4E1AB.tmp' to 'C:/Users/user/Documents/UE4/Unreal_LIN_3D_FPS/FPS_3D_20210729/Content/玩家/Ch01_1001_Diffuse.uasset'
+[2021.08.06-01.07.45:133][ 99]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/玩家/Ch01_1001_Diffuse_ncl1_1" FILE="C:/Users/user/Documents/UE4/Unreal_LIN_3D_FPS/FPS_3D_20210729/Content/玩家/Ch01_1001_Diffuse_ncl1_1.uasset" SILENT=true
+[2021.08.06-01.07.47:650][ 99]LogSavePackage: Moving 'C:/Users/user/Documents/UE4/Unreal_LIN_3D_FPS/FPS_3D_20210729/Saved/Ch01_1001_Diffuse_ncl1_1F44BEDC041EF2EF8A6575794C70014C6.tmp' to 'C:/Users/user/Documents/UE4/Unreal_LIN_3D_FPS/FPS_3D_20210729/Content/玩家/Ch01_1001_Diffuse_ncl1_1.uasset'
+[2021.08.06-01.07.47:659][ 99]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/玩家/Ch01_1001_Glossiness" FILE="C:/Users/user/Documents/UE4/Unreal_LIN_3D_FPS/FPS_3D_20210729/Content/玩家/Ch01_1001_Glossiness.uasset" SILENT=true
+[2021.08.06-01.07.48:658][ 99]LogSavePackage: Moving 'C:/Users/user/Documents/UE4/Unreal_LIN_3D_FPS/FPS_3D_20210729/Saved/Ch01_1001_Glossiness6977007C405B9D87855FD3AC705564F7.tmp' to 'C:/Users/user/Documents/UE4/Unreal_LIN_3D_FPS/FPS_3D_20210729/Content/玩家/Ch01_1001_Glossiness.uasset'
+[2021.08.06-01.07.48:666][ 99]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/玩家/Ch01_1001_Normal" FILE="C:/Users/user/Documents/UE4/Unreal_LIN_3D_FPS/FPS_3D_20210729/Content/玩家/Ch01_1001_Normal.uasset" SILENT=true
+[2021.08.06-01.07.51:900][ 99]LogSavePackage: Moving 'C:/Users/user/Documents/UE4/Unreal_LIN_3D_FPS/FPS_3D_20210729/Saved/Ch01_1001_NormalE256086B4B0EA75E7BA78AB261B6FFAE.tmp' to 'C:/Users/user/Documents/UE4/Unreal_LIN_3D_FPS/FPS_3D_20210729/Content/玩家/Ch01_1001_Normal.uasset'
+[2021.08.06-01.07.51:909][ 99]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/玩家/Ch01_1001_Normal_ncl1_1" FILE="C:/Users/user/Documents/UE4/Unreal_LIN_3D_FPS/FPS_3D_20210729/Content/玩家/Ch01_1001_Normal_ncl1_1.uasset" SILENT=true
+[2021.08.06-01.07.57:958][ 99]LogSavePackage: Moving 'C:/Users/user/Documents/UE4/Unreal_LIN_3D_FPS/FPS_3D_20210729/Saved/Ch01_1001_Normal_ncl1_1336B7B124742CEDDDEE43787D4151DFF.tmp' to 'C:/Users/user/Documents/UE4/Unreal_LIN_3D_FPS/FPS_3D_20210729/Content/玩家/Ch01_1001_Normal_ncl1_1.uasset'
+[2021.08.06-01.07.57:966][ 99]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/玩家/Ch01_1001_Specular" FILE="C:/Users/user/Documents/UE4/Unreal_LIN_3D_FPS/FPS_3D_20210729/Content/玩家/Ch01_1001_Specular.uasset" SILENT=true
+[2021.08.06-01.07.59:210][ 99]LogSavePackage: Moving 'C:/Users/user/Documents/UE4/Unreal_LIN_3D_FPS/FPS_3D_20210729/Saved/Ch01_1001_SpecularAAEF07C7498D7A3D672E84903BEAAF4B.tmp' to 'C:/Users/user/Documents/UE4/Unreal_LIN_3D_FPS/FPS_3D_20210729/Content/玩家/Ch01_1001_Specular.uasset'
+[2021.08.06-01.07.59:542][ 99]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/玩家/Ch01_body" FILE="C:/Users/user/Documents/UE4/Unreal_LIN_3D_FPS/FPS_3D_20210729/Content/玩家/Ch01_body.uasset" SILENT=true
+[2021.08.06-01.08.00:759][ 99]LogSavePackage: Moving 'C:/Users/user/Documents/UE4/Unreal_LIN_3D_FPS/FPS_3D_20210729/Saved/Ch01_body158DFFFC4B713EB7ADA89DBB48363F9E.tmp' to 'C:/Users/user/Documents/UE4/Unreal_LIN_3D_FPS/FPS_3D_20210729/Content/玩家/Ch01_body.uasset'
+[2021.08.06-01.08.00:783][ 99]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/玩家/Ch01_hair" FILE="C:/Users/user/Documents/UE4/Unreal_LIN_3D_FPS/FPS_3D_20210729/Content/玩家/Ch01_hair.uasset" SILENT=true
+[2021.08.06-01.08.00:791][ 99]LogSavePackage: Moving 'C:/Users/user/Documents/UE4/Unreal_LIN_3D_FPS/FPS_3D_20210729/Saved/Ch01_hairF9D90A304351FB46E8A64FBE381E6C38.tmp' to 'C:/Users/user/Documents/UE4/Unreal_LIN_3D_FPS/FPS_3D_20210729/Content/玩家/Ch01_hair.uasset'
+[2021.08.06-01.08.00:792][ 99]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/玩家/Ch01_nonPBR" FILE="C:/Users/user/Documents/UE4/Unreal_LIN_3D_FPS/FPS_3D_20210729/Content/玩家/Ch01_nonPBR.uasset" SILENT=true
+[2021.08.06-01.08.01:915][ 99]LogSavePackage: Moving 'C:/Users/user/Documents/UE4/Unreal_LIN_3D_FPS/FPS_3D_20210729/Saved/Ch01_nonPBR8F6085EF4C498BB1BA730FB227609F39.tmp' to 'C:/Users/user/Documents/UE4/Unreal_LIN_3D_FPS/FPS_3D_20210729/Content/玩家/Ch01_nonPBR.uasset'
+[2021.08.06-01.08.01:950][ 99]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/玩家/Ch01_nonPBR_PhysicsAsset" FILE="C:/Users/user/Documents/UE4/Unreal_LIN_3D_FPS/FPS_3D_20210729/Content/玩家/Ch01_nonPBR_PhysicsAsset.uasset" SILENT=true
+[2021.08.06-01.08.02:225][ 99]LogSavePackage: Moving 'C:/Users/user/Documents/UE4/Unreal_LIN_3D_FPS/FPS_3D_20210729/Saved/Ch01_nonPBR_PhysicsAssetD114A9FC4050D31DBB05FE88902DC4D6.tmp' to 'C:/Users/user/Documents/UE4/Unreal_LIN_3D_FPS/FPS_3D_20210729/Content/玩家/Ch01_nonPBR_PhysicsAsset.uasset'
+[2021.08.06-01.08.02:227][ 99]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/玩家/Ch01_nonPBR_Skeleton" FILE="C:/Users/user/Documents/UE4/Unreal_LIN_3D_FPS/FPS_3D_20210729/Content/玩家/Ch01_nonPBR_Skeleton.uasset" SILENT=true
+[2021.08.06-01.08.02:230][ 99]LogSavePackage: Moving 'C:/Users/user/Documents/UE4/Unreal_LIN_3D_FPS/FPS_3D_20210729/Saved/Ch01_nonPBR_Skeleton22C624D94D569187FF28B49A18DD6A68.tmp' to 'C:/Users/user/Documents/UE4/Unreal_LIN_3D_FPS/FPS_3D_20210729/Content/玩家/Ch01_nonPBR_Skeleton.uasset'
+[2021.08.06-01.08.02:279][ 99]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/玩家/Idle" FILE="C:/Users/user/Documents/UE4/Unreal_LIN_3D_FPS/FPS_3D_20210729/Content/玩家/Idle.uasset" SILENT=true
+[2021.08.06-01.08.02:790][ 99]LogSavePackage: Moving 'C:/Users/user/Documents/UE4/Unreal_LIN_3D_FPS/FPS_3D_20210729/Saved/Idle18C038ED4DB66928F25ED88DCB9841BC.tmp' to 'C:/Users/user/Documents/UE4/Unreal_LIN_3D_FPS/FPS_3D_20210729/Content/玩家/Idle.uasset'
+[2021.08.06-01.08.02:815][ 99]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/玩家/Run_Backward" FILE="C:/Users/user/Documents/UE4/Unreal_LIN_3D_FPS/FPS_3D_20210729/Content/玩家/Run_Backward.uasset" SILENT=true
+[2021.08.06-01.08.02:824][ 99]LogSavePackage: Moving 'C:/Users/user/Documents/UE4/Unreal_LIN_3D_FPS/FPS_3D_20210729/Saved/Run_Backward0C0EEC1F4523EB30D351C6A7E1A1DA43.tmp' to 'C:/Users/user/Documents/UE4/Unreal_LIN_3D_FPS/FPS_3D_20210729/Content/玩家/Run_Backward.uasset'
+[2021.08.06-01.08.02:844][ 99]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/玩家/Run_Forward" FILE="C:/Users/user/Documents/UE4/Unreal_LIN_3D_FPS/FPS_3D_20210729/Content/玩家/Run_Forward.uasset" SILENT=true
+[2021.08.06-01.08.02:989][ 99]LogSavePackage: Moving 'C:/Users/user/Documents/UE4/Unreal_LIN_3D_FPS/FPS_3D_20210729/Saved/Run_Forward4847FFCE4E3A43BC117B8AB45506201B.tmp' to 'C:/Users/user/Documents/UE4/Unreal_LIN_3D_FPS/FPS_3D_20210729/Content/玩家/Run_Forward.uasset'
+[2021.08.06-01.08.03:014][ 99]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/玩家/Run_Left" FILE="C:/Users/user/Documents/UE4/Unreal_LIN_3D_FPS/FPS_3D_20210729/Content/玩家/Run_Left.uasset" SILENT=true
+[2021.08.06-01.08.03:021][ 99]LogSavePackage: Moving 'C:/Users/user/Documents/UE4/Unreal_LIN_3D_FPS/FPS_3D_20210729/Saved/Run_Left2B274DF4470804E7488B39979A0220E5.tmp' to 'C:/Users/user/Documents/UE4/Unreal_LIN_3D_FPS/FPS_3D_20210729/Content/玩家/Run_Left.uasset'
+[2021.08.06-01.08.03:046][ 99]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/玩家/Run_Right" FILE="C:/Users/user/Documents/UE4/Unreal_LIN_3D_FPS/FPS_3D_20210729/Content/玩家/Run_Right.uasset" SILENT=true
+[2021.08.06-01.08.03:099][ 99]LogSavePackage: Moving 'C:/Users/user/Documents/UE4/Unreal_LIN_3D_FPS/FPS_3D_20210729/Saved/Run_Right125876754F578B08DA311CB8ADB61D1B.tmp' to 'C:/Users/user/Documents/UE4/Unreal_LIN_3D_FPS/FPS_3D_20210729/Content/玩家/Run_Right.uasset'
+[2021.08.06-01.08.03:125][ 99]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/玩家/Walk_Backward" FILE="C:/Users/user/Documents/UE4/Unreal_LIN_3D_FPS/FPS_3D_20210729/Content/玩家/Walk_Backward.uasset" SILENT=true
+[2021.08.06-01.08.03:132][ 99]LogSavePackage: Moving 'C:/Users/user/Documents/UE4/Unreal_LIN_3D_FPS/FPS_3D_20210729/Saved/Walk_BackwardF7432D7E49612743A12E30B1D59FC09B.tmp' to 'C:/Users/user/Documents/UE4/Unreal_LIN_3D_FPS/FPS_3D_20210729/Content/玩家/Walk_Backward.uasset'
+[2021.08.06-01.08.03:182][ 99]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/玩家/Walk_Left" FILE="C:/Users/user/Documents/UE4/Unreal_LIN_3D_FPS/FPS_3D_20210729/Content/玩家/Walk_Left.uasset" SILENT=true
+[2021.08.06-01.08.03:193][ 99]LogSavePackage: Moving 'C:/Users/user/Documents/UE4/Unreal_LIN_3D_FPS/FPS_3D_20210729/Saved/Walk_Left84A3D0C143B965D06987EE9379DCC683.tmp' to 'C:/Users/user/Documents/UE4/Unreal_LIN_3D_FPS/FPS_3D_20210729/Content/玩家/Walk_Left.uasset'
+[2021.08.06-01.08.03:214][ 99]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/玩家/Walk_Right" FILE="C:/Users/user/Documents/UE4/Unreal_LIN_3D_FPS/FPS_3D_20210729/Content/玩家/Walk_Right.uasset" SILENT=true
+[2021.08.06-01.08.03:285][ 99]LogSavePackage: Moving 'C:/Users/user/Documents/UE4/Unreal_LIN_3D_FPS/FPS_3D_20210729/Saved/Walk_RightEFB426624B9A127FC9CCE380332EA7C7.tmp' to 'C:/Users/user/Documents/UE4/Unreal_LIN_3D_FPS/FPS_3D_20210729/Content/玩家/Walk_Right.uasset'
+[2021.08.06-01.08.03:313][ 99]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/玩家/Walking" FILE="C:/Users/user/Documents/UE4/Unreal_LIN_3D_FPS/FPS_3D_20210729/Content/玩家/Walking.uasset" SILENT=true
+[2021.08.06-01.08.03:322][ 99]LogSavePackage: Moving 'C:/Users/user/Documents/UE4/Unreal_LIN_3D_FPS/FPS_3D_20210729/Saved/WalkingA0AA48CA409582A6D8B82BB295736D98.tmp' to 'C:/Users/user/Documents/UE4/Unreal_LIN_3D_FPS/FPS_3D_20210729/Content/玩家/Walking.uasset'
+[2021.08.06-01.08.04:247][ 99]AssetCheck: New page: Asset Save: multiple assets
+[2021.08.06-01.08.04:268][ 99]LogContentValidation: Display: Validating PhysicsAsset /Game/玩家/Ch01_nonPBR_PhysicsAsset.Ch01_nonPBR_PhysicsAsset
+[2021.08.06-01.08.04:299][ 99]LogContentValidation: Display: Validating Skeleton /Game/玩家/Ch01_nonPBR_Skeleton.Ch01_nonPBR_Skeleton
+[2021.08.06-01.08.04:299][ 99]LogContentValidation: Display: Validating Texture2D /Game/玩家/Ch01_1001_Normal_ncl1_1.Ch01_1001_Normal_ncl1_1
+[2021.08.06-01.08.04:299][ 99]LogContentValidation: Display: Validating Texture2D /Game/玩家/Ch01_1001_Diffuse_ncl1_1.Ch01_1001_Diffuse_ncl1_1
+[2021.08.06-01.08.04:299][ 99]LogContentValidation: Display: Validating Material /Game/玩家/Ch01_hair.Ch01_hair
+[2021.08.06-01.08.04:299][ 99]LogContentValidation: Display: Validating Texture2D /Game/玩家/Ch01_1001_Normal.Ch01_1001_Normal
+[2021.08.06-01.08.04:299][ 99]LogContentValidation: Display: Validating Texture2D /Game/玩家/Ch01_1001_Glossiness.Ch01_1001_Glossiness
+[2021.08.06-01.08.04:299][ 99]LogContentValidation: Display: Validating Texture2D /Game/玩家/Ch01_1001_Specular.Ch01_1001_Specular
+[2021.08.06-01.08.04:299][ 99]LogContentValidation: Display: Validating Texture2D /Game/玩家/Ch01_1001_Diffuse.Ch01_1001_Diffuse
+[2021.08.06-01.08.04:299][ 99]LogContentValidation: Display: Validating Material /Game/玩家/Ch01_body.Ch01_body
+[2021.08.06-01.08.04:299][ 99]LogContentValidation: Display: Validating SkeletalMesh /Game/玩家/Ch01_nonPBR.Ch01_nonPBR
+[2021.08.06-01.08.04:299][ 99]LogContentValidation: Display: Validating AnimSequence /Game/玩家/Walk_Left.Walk_Left
+[2021.08.06-01.08.04:299][ 99]LogContentValidation: Display: Validating AnimSequence /Game/玩家/Walk_Right.Walk_Right
+[2021.08.06-01.08.04:299][ 99]LogContentValidation: Display: Validating AnimSequence /Game/玩家/Walking.Walking
+[2021.08.06-01.08.04:299][ 99]LogContentValidation: Display: Validating AnimSequence /Game/玩家/Idle.Idle
+[2021.08.06-01.08.04:299][ 99]LogContentValidation: Display: Validating AnimSequence /Game/玩家/Run_Backward.Run_Backward
+[2021.08.06-01.08.04:299][ 99]LogContentValidation: Display: Validating AnimSequence /Game/玩家/Run_Forward.Run_Forward
+[2021.08.06-01.08.04:299][ 99]LogContentValidation: Display: Validating AnimSequence /Game/玩家/Run_Left.Run_Left
+[2021.08.06-01.08.04:299][ 99]LogContentValidation: Display: Validating AnimSequence /Game/玩家/Run_Right.Run_Right
+[2021.08.06-01.08.04:299][ 99]LogContentValidation: Display: Validating AnimSequence /Game/玩家/Walk_Backward.Walk_Backward
+[2021.08.06-01.11.45:850][567]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP/BP_玩家控制.BP_玩家控制
+[2021.08.06-01.11.48:147][567]LogBlueprintEditor: Perf: 1.5 total seconds to load all 5 blueprint libraries in project. Avoid references to content in blueprint libraries to shorten this time.
+[2021.08.06-01.11.48:178][567]LogBlueprintEditor: Perf: 0.5 seconds loading: /Engine/ArtTools/RenderToTexture/Macros/RenderToTextureFunctionLibrary
+[2021.08.06-01.11.48:178][567]LogBlueprintEditor: Perf: 0.4 seconds loading: /Engine/ArtTools/RenderToTexture/Macros/RenderToTextureMacros
+[2021.08.06-01.11.48:178][567]LogBlueprintEditor: Perf: 0.3 seconds loading: /Engine/Tutorial/BlueprintTutorials/TutorialAssets/Tutorial_BP_MacroLib
+[2021.08.06-01.11.48:178][567]LogBlueprintEditor: Perf: 0.2 seconds loading: /Engine/EditorBlueprintResources/ActorMacros
+[2021.08.06-01.11.52:391][567]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0401 seconds. Added 126 classes and 0 folders.
+[2021.08.06-01.12.01:315][567]LogSlate: Took 0.035983 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.08.06-01.12.03:652][568]LogSlate: Took 0.121990 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.08.06-01.12.16:516][608]LogRenderer: Reallocating scene render targets to support 1208x712 Format 10 NumSamples 1 (Frame:1).
+[2021.08.06-01.12.35:081][907]LogAnimation: Warning: AnimBP ThirdPerson_AnimBP_C is incompatible with skeleton Ch01_nonPBR_Skeleton, removing AnimBP from actor.
+[2021.08.06-01.12.35:082][907]LogAnimation: Warning: AnimBP ThirdPerson_AnimBP_C is incompatible with skeleton Ch01_nonPBR_Skeleton, removing AnimBP from actor.
+[2021.08.06-01.12.35:082][907]LogAnimation: Warning: AnimBP ThirdPerson_AnimBP_C is incompatible with skeleton Ch01_nonPBR_Skeleton, removing AnimBP from actor.
+[2021.08.06-01.13.55:651][595]BlueprintLog: New page: Compile BP_玩家控制
+[2021.08.06-01.13.56:328][595]LogUObjectHash: Compacting FUObjectHashTables data took 136.11ms
+[2021.08.06-01.13.57:226][629]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_玩家控制" FILE="C:/Users/user/Documents/UE4/Unreal_LIN_3D_FPS/FPS_3D_20210729/Content/BP/BP_玩家控制.uasset" SILENT=true
+[2021.08.06-01.13.57:989][629]LogSavePackage: Moving 'C:/Users/user/Documents/UE4/Unreal_LIN_3D_FPS/FPS_3D_20210729/Saved/BP_玩家控制1DB8BC654E172D0FCD7D1DB8B4A110A0.tmp' to 'C:/Users/user/Documents/UE4/Unreal_LIN_3D_FPS/FPS_3D_20210729/Content/BP/BP_玩家控制.uasset'
+[2021.08.06-01.13.58:241][629]AssetCheck: New page: Asset Save: BP_玩家控制
+[2021.08.06-01.13.58:241][629]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_玩家控制.BP_玩家控制
+[2021.08.06-01.13.58:630][656]LogSlate: Window 'BP_玩家控制' being destroyed
+[2021.08.06-01.13.58:881][656]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2021.08.06-01.13.58:881][656]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.06-01.13.59:849][708]LogTemp: Repeating last play command: Selected Viewport
+[2021.08.06-01.14.00:276][708]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.06-01.14.00:637][708]PIE: New page: PIE session: 遊戲場景 (2021年8月6日 下午5:14:00)
+[2021.08.06-01.14.01:266][708]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.08.06-01.14.01:472][708]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.08.06-01.14.01:579][708]LogPlayLevel: Creating play world package: /Game/地圖/UEDPIE_0_遊戲場景
+[2021.08.06-01.14.02:365][708]LogPlayLevel: PIE: StaticDuplicateObject took: (0.705549s)
+[2021.08.06-01.14.02:770][708]LogAIModule: Creating AISystem for world 遊戲場景
+[2021.08.06-01.14.02:801][708]LogPlayLevel: PIE: World Init took: (0.436265s)
+[2021.08.06-01.14.02:801][708]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/地圖/遊戲場景.遊戲場景 to /Game/地圖/UEDPIE_0_遊戲場景.遊戲場景 (1.283020s)
+[2021.08.06-01.14.02:920][708]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2021.08.06-01.14.02:978][708]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.08.06-01.14.03:030][708]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.06-01.14.03:030][708]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.06-01.14.03:030][708]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.06-01.14.03:030][708]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.06-01.14.03:030][708]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.06-01.14.03:030][708]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.06-01.14.03:030][708]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.06-01.14.03:047][708]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.06-01.14.03:077][708]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.06-01.14.03:077][708]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.06-01.14.03:212][708]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.06-01.14.03:212][708]LogAudioMixer: Display: 1: FrontRight
+[2021.08.06-01.14.03:212][708]LogAudioMixer: Display: 2: FrontCenter
+[2021.08.06-01.14.03:212][708]LogAudioMixer: Display: 3: LowFrequency
+[2021.08.06-01.14.03:212][708]LogAudioMixer: Display: 4: BackLeft
+[2021.08.06-01.14.03:212][708]LogAudioMixer: Display: 5: BackRight
+[2021.08.06-01.14.03:212][708]LogAudioMixer: Display: 6: SideLeft
+[2021.08.06-01.14.03:212][708]LogAudioMixer: Display: 7: SideRight
+[2021.08.06-01.14.05:085][708]LogAudioMixer: Display: Using Audio Device 喇叭 (Realtek High Definition Audio)
+[2021.08.06-01.14.05:362][708]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.06-01.14.05:362][708]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.06-01.14.05:400][708]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.06-01.14.05:423][708]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.06-01.14.05:444][708]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.06-01.14.05:444][708]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.08.06-01.14.05:502][708]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.06-01.14.05:502][708]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.06-01.14.05:502][708]LogInit: FAudioDevice initialized.
+[2021.08.06-01.14.05:505][708]LogAudio: Display: Audio Device (ID: 2) registered with world '遊戲場景'.
+[2021.08.06-01.14.06:111][708]LogLoad: Game class is 'BP_遊戲模式_C'
+[2021.08.06-01.14.06:231][708]LogWorld: Bringing World /Game/地圖/UEDPIE_0_遊戲場景.遊戲場景 up for play (max tick rate 0) at 2021.08.06-09.14.06
+[2021.08.06-01.14.06:303][708]LogWorld: Bringing up level for play took: 0.176447
+[2021.08.06-01.14.06:776][708]LogOnline: OSS: Creating online subsystem instance for: :Context_30
+[2021.08.06-01.14.07:779][708]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0081 seconds. Added 20 classes and 0 folders.
+[2021.08.06-01.14.08:339][708]PIE: Server logged in
+[2021.08.06-01.14.08:355][708]PIE: Play in editor total start time 8.351 seconds.
+[2021.08.06-01.14.21:026][576]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.06-01.14.21:046][576]LogWorld: BeginTearingDown for /Game/地圖/UEDPIE_0_遊戲場景
+[2021.08.06-01.14.21:152][576]LogWorld: UWorld::CleanupWorld for 遊戲場景, bSessionEnded=true, bCleanupResources=true
+[2021.08.06-01.14.21:172][576]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.06-01.14.21:250][576]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.06-01.14.21:520][576]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.06-01.14.21:879][576]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.06-01.14.21:935][576]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.06-01.14.21:937][576]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.06-01.14.22:336][576]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.06-01.14.22:875][576]LogUObjectHash: Compacting FUObjectHashTables data took   4.05ms
+[2021.08.06-01.14.23:746][577]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2021.08.06-01.14.25:145][667]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP/BP_玩家控制.BP_玩家控制
+[2021.08.06-01.14.35:133][986]LogAnimation: Warning: AnimBP ThirdPerson_AnimBP_C is incompatible with skeleton Ch01_nonPBR_Skeleton, removing AnimBP from actor.
+[2021.08.06-01.14.35:134][986]LogAnimation: Warning: AnimBP ThirdPerson_AnimBP_C is incompatible with skeleton Ch01_nonPBR_Skeleton, removing AnimBP from actor.
+[2021.08.06-01.14.35:134][986]LogAnimation: Warning: AnimBP ThirdPerson_AnimBP_C is incompatible with skeleton Ch01_nonPBR_Skeleton, removing AnimBP from actor.
+[2021.08.06-01.14.46:657][517]LogEditorTransaction: Undo Modify Component(s)
+[2021.08.06-01.15.04:738][147]BlueprintLog: New page: Compile BP_玩家控制
+[2021.08.06-01.15.05:068][147]LogUObjectHash: Compacting FUObjectHashTables data took   4.33ms
+[2021.08.06-01.15.05:705][168]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_玩家控制" FILE="C:/Users/user/Documents/UE4/Unreal_LIN_3D_FPS/FPS_3D_20210729/Content/BP/BP_玩家控制.uasset" SILENT=true
+[2021.08.06-01.15.06:134][168]LogSavePackage: Moving 'C:/Users/user/Documents/UE4/Unreal_LIN_3D_FPS/FPS_3D_20210729/Saved/BP_玩家控制C920211D4D7932B132714EAA28F79825.tmp' to 'C:/Users/user/Documents/UE4/Unreal_LIN_3D_FPS/FPS_3D_20210729/Content/BP/BP_玩家控制.uasset'
+[2021.08.06-01.15.06:157][168]AssetCheck: New page: Asset Save: BP_玩家控制
+[2021.08.06-01.15.06:157][168]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_玩家控制.BP_玩家控制
+[2021.08.06-01.15.47:458][165]LogEditorTransaction: Undo Modify Component Scale
+[2021.08.06-01.16.02:626][796]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_玩家控制" FILE="C:/Users/user/Documents/UE4/Unreal_LIN_3D_FPS/FPS_3D_20210729/Content/BP/BP_玩家控制.uasset" SILENT=true
+[2021.08.06-01.16.02:673][796]LogSavePackage: Moving 'C:/Users/user/Documents/UE4/Unreal_LIN_3D_FPS/FPS_3D_20210729/Saved/BP_玩家控制05D7B9654CA30FDF996ECA88758F1970.tmp' to 'C:/Users/user/Documents/UE4/Unreal_LIN_3D_FPS/FPS_3D_20210729/Content/BP/BP_玩家控制.uasset'
+[2021.08.06-01.16.02:725][796]AssetCheck: New page: Asset Save: BP_玩家控制
+[2021.08.06-01.16.02:725][796]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_玩家控制.BP_玩家控制
+[2021.08.06-01.16.04:224][883]BlueprintLog: New page: Compile BP_玩家控制
+[2021.08.06-01.16.04:407][883]LogUObjectHash: Compacting FUObjectHashTables data took   4.15ms
+[2021.08.06-01.16.05:181][927]LogSlate: Window 'BP_玩家控制' being destroyed
+[2021.08.06-01.16.05:214][927]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2021.08.06-01.16.05:214][927]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.06-01.16.06:241][927]LogTemp: Repeating last play command: Selected Viewport
+[2021.08.06-01.16.06:248][927]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.06-01.16.06:248][927]PIE: New page: PIE session: 遊戲場景 (2021年8月6日 下午5:16:06)
+[2021.08.06-01.16.06:248][927]LogPlayLevel: Creating play world package: /Game/地圖/UEDPIE_0_遊戲場景
+[2021.08.06-01.16.06:256][927]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008071s)
+[2021.08.06-01.16.06:258][927]LogAIModule: Creating AISystem for world 遊戲場景
+[2021.08.06-01.16.06:258][927]LogPlayLevel: PIE: World Init took: (0.001446s)
+[2021.08.06-01.16.06:258][927]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/地圖/遊戲場景.遊戲場景 to /Game/地圖/UEDPIE_0_遊戲場景.遊戲場景 (0.009693s)
+[2021.08.06-01.16.06:280][927]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2021.08.06-01.16.06:282][927]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2021.08.06-01.16.06:282][927]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.06-01.16.06:282][927]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.06-01.16.06:282][927]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.06-01.16.06:282][927]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.06-01.16.06:282][927]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.06-01.16.06:282][927]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.06-01.16.06:282][927]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.06-01.16.06:282][927]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.06-01.16.06:283][927]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.06-01.16.06:283][927]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.06-01.16.06:288][927]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.06-01.16.06:288][927]LogAudioMixer: Display: 1: FrontRight
+[2021.08.06-01.16.06:288][927]LogAudioMixer: Display: 2: FrontCenter
+[2021.08.06-01.16.06:288][927]LogAudioMixer: Display: 3: LowFrequency
+[2021.08.06-01.16.06:288][927]LogAudioMixer: Display: 4: BackLeft
+[2021.08.06-01.16.06:288][927]LogAudioMixer: Display: 5: BackRight
+[2021.08.06-01.16.06:288][927]LogAudioMixer: Display: 6: SideLeft
+[2021.08.06-01.16.06:288][927]LogAudioMixer: Display: 7: SideRight
+[2021.08.06-01.16.06:687][927]LogAudioMixer: Display: Using Audio Device 喇叭 (Realtek High Definition Audio)
+[2021.08.06-01.16.06:700][927]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.06-01.16.06:700][927]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.06-01.16.06:700][927]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.06-01.16.06:701][927]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.06-01.16.06:701][927]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.06-01.16.06:701][927]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.08.06-01.16.06:709][927]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.06-01.16.06:709][927]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.06-01.16.06:709][927]LogInit: FAudioDevice initialized.
+[2021.08.06-01.16.06:709][927]LogAudio: Display: Audio Device (ID: 3) registered with world '遊戲場景'.
+[2021.08.06-01.16.06:721][927]LogLoad: Game class is 'BP_遊戲模式_C'
+[2021.08.06-01.16.06:726][927]LogWorld: Bringing World /Game/地圖/UEDPIE_0_遊戲場景.遊戲場景 up for play (max tick rate 0) at 2021.08.06-09.16.06
+[2021.08.06-01.16.06:726][927]LogWorld: Bringing up level for play took: 0.004479
+[2021.08.06-01.16.06:760][927]LogOnline: OSS: Creating online subsystem instance for: :Context_32
+[2021.08.06-01.16.06:764][927]PIE: Server logged in
+[2021.08.06-01.16.06:766][927]PIE: Play in editor total start time 0.519 seconds.
+[2021.08.06-01.16.26:916][180]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.06-01.16.26:917][180]LogWorld: BeginTearingDown for /Game/地圖/UEDPIE_0_遊戲場景
+[2021.08.06-01.16.26:917][180]LogWorld: UWorld::CleanupWorld for 遊戲場景, bSessionEnded=true, bCleanupResources=true
+[2021.08.06-01.16.26:918][180]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.06-01.16.26:932][180]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.06-01.16.26:954][180]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.06-01.16.26:972][180]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.06-01.16.26:972][180]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.06-01.16.26:973][180]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.06-01.16.27:030][180]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.06-01.16.27:088][180]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2021.08.06-01.16.27:160][181]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2021.08.06-01.18.08:494][486]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2021.08.06-01.18.08:582][486]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2021.08.06-02.02.12:293][486]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.08.06-02.02.18:662][486]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.08.06-02.03.30:228][486]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.08.06-02.03.31:360][486]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.08.06-02.04.12:361][486]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.08.06-02.07.09:439][486]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.08.06-02.07.10:440][486]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.08.06-02.07.15:440][486]LogD3D11RHI: GetQueryData is taking a very long time (5.0 s) (00000000)
+[2021.08.06-02.07.20:442][486]LogD3D11RHI: GetQueryData is taking a very long time (10.0 s) (00000000)
+[2021.08.06-02.07.27:842][486]LogD3D11RHI: GetQueryData is taking a very long time (15.0 s) (00000000)
+[2021.08.06-02.07.37:940][486]LogD3D11RHI: GetQueryData is taking a very long time (5.0 s) (00000000)
+[2021.08.06-02.07.38:284][486]LogD3D11RHI: GetQueryData is taking a very long time (10.0 s) (00000000)
